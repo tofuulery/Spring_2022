@@ -2,7 +2,6 @@ import praw
 import pandas as pd
 import os
 import datetime as dt
-import HTMLParser
 
 
 ## C:\Users\19033\PycharmProjects\Analysis\Delta8_Reddit_Data
@@ -23,9 +22,9 @@ class reddithelper:
         post = self.reddit.submission(postid)
         post.comments.replace_more(limit=None)
         comments = post.comments
-        df_rows = [[comment.parent(), comment.id, comment.author, comment.score, comment.created, comment.body] for
+        df_rows = [[comment.subreddit, comment.parent(), comment.id, comment.author, comment.is_submitter, comment.score, comment.created, comment.body] for
                    comment in comments.list()]
-        df = pd.DataFrame(df_rows, columns=['Parent ID', 'Comment ID', 'Author', 'Score', 'Created', 'Body'])
+        df = pd.DataFrame(df_rows, columns=['Subreddit', 'Parent ID', 'Comment ID', 'Author', 'Submitter', 'Score', 'Created', 'Body'])
 
         df.to_csv(outfile)
         return df
@@ -62,7 +61,7 @@ rh = reddithelper()
 
 
 # ## HOT POSTS ###
-hotposts = rh.get_hot_post_ids(subreddit_name, 50)  # args = subreddit, limit
+hotposts = rh.get_hot_post_ids(subreddit_name, 5)  # args = subreddit, limit
 [rh.grab_comments(i, f'{subreddit_name}hot_post_comments-{i}.csv') for i in hotposts]  # gets comments - etc.
 
 
@@ -87,7 +86,7 @@ hotposts = rh.get_hot_post_ids(subreddit_name, 50)  # args = subreddit, limit
 # [rh.grab_comments(f'{i}{subreddit_name}_tpa', f'{subreddit_name}top_posts_all-{i}.csv') for i in top_posts_all]  # gets comments - etc.
 
 """
-.hot, .new, .controversial, .top, and .gilded. You can also use .search("SEARCH_KEYWORDS") to get only results matching 
+.hot, .new, .controversial, .top, and .gilded. You can also use .search("SEARCH_KEYWORDS") to get only results matching
 an engine search.
 """
 ## DOCS ##
