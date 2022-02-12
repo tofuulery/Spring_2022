@@ -5,3 +5,5 @@ x = np.linspace(0,100,100)
 y = x**2
 
 plt.plot(x,y)
+
+plt.scatter(x,y)
