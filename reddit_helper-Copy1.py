@@ -2,6 +2,7 @@ import praw
 import pandas as pd
 import os
 import datetime as dt
+import numpy as np
 
 
 ## C:\Users\19033\PycharmProjects\Analysis\Delta8_Reddit_Data
