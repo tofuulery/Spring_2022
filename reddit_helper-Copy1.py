@@ -14,9 +14,9 @@ class reddithelper:
         self.reddit = praw.Reddit(
             client_id="1chNuS_yxuVkA_qFKqFjsg",  # Personal Use Script - 14 characters
             client_secret="t728cM7ammQNSgQcQRvPxGM3ovTy-w",  # Secret key - 27 characters
-            user_agent="Antikythera22",  # App name
-            username='Antikythera22',  # User name
-            password='Nautilus265389'  # PW
+            user_agent="agent",  # App name
+            username='username',  # User name
+            password='pws'  # PW
         )
 
     def grab_comments(self, postid, outfile):
