@@ -177,7 +177,6 @@ for element in sub_list:
         for submission in data:
             collectSubData(submission)
             submissionCount += 1
-            data_counter += 1
             # Calls getPushshiftData() with the created date of the last submission
             print(f'Gathering {len(data)} submissions.')
             # print(str(datetime.datetime.fromtimestamp(data[-1]['created_utc'])))
@@ -188,6 +187,7 @@ for element in sub_list:
             print(str(len(subStats)) + " submissions have added to list")
             # updateSubs_file(subStats, filename)
             updateDesc_file(txtfilepath, text_metadata)
+            data_counter += 1
 
 
     # first_entry = str(list(subStats.values())[0][0][1])
