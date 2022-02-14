@@ -9,6 +9,9 @@ reddit = praw.Reddit(
 def get_submissions(query, sub):
     subreddit = reddit.subreddit(f'{sub}')
     df = pd.DataFrame([vars(post) for post in subreddit.search(f'{query}', limit = None) ])
-    df.to_csv(f'../data/praw_q={query}_sub={sub}.csv')
+    query2 = query.replace('|','OR')
+    query3 = query2.replace('+','AND')
+    query4 = query3.replace(' ', '-')
+    df.to_csv(f'../data/praw_q={query4}_sub={sub}.csv')
 
-get_submissions('safety', 'delta8')
+get_submissions('regulation', 'delta8')
