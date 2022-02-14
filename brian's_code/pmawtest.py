@@ -8,7 +8,8 @@ def get_submissions(query, sub, after, before, limit):
     gen = api.search_submissions(query=query,subreddit=sub,after=after, before=before, limit=limit)
     df = pd.DataFrame([obj.d_ for obj in gen])
     # df = pd.DataFrame(gen)
-    df.to_csv('data/' +query + sub + '.csv')
+    query2 = query.replace('|','_')
+    df.to_csv('data/' +query2 + sub + '.csv')
     return df
 
 before = "1609480801"  # January 1 2021
