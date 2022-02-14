@@ -16,6 +16,8 @@ def get_submissions(query, sub, **kwarg):
     query2 = query.replace('|','OR')
     query3 = query2.replace('+','AND')
     query4 = query3.replace(' ', '-')
-    df.to_csv(f'../data/praw_q={query4}_sub={sub}.csv')
+    df.to_csv(f'../data/praw_q={query4}_subreddit={sub}.csv')
 
-get_submissions('regulation', 'delta8', limit=None)
+limit = 100
+
+get_submissions('regulation|regulate', 'delta8', limit=limit)
