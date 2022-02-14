@@ -9,8 +9,8 @@ reddit = praw.Reddit(
     client_id="1chNuS_yxuVkA_qFKqFjsg",  # Personal Use Script - 14 characters
     client_secret="t728cM7ammQNSgQcQRvPxGM3ovTy-w",  # Secret key - 27 characters
     user_agent="my user agent",  # App name
-    username='Antikythera22',
-    password='Nautilus265389',
+    username='redditor',
+    password='redditorpw',
 )
 
 # directory = r'C:\Users\19033\PycharmProjects\Analysis\Delta8_Reddit_Data\'
@@ -60,7 +60,3 @@ df.to_csv('df_test_02.11.csv', encoding_errors=ignore)
 #             except ValueError:
 #                 writer.writewrow(blank)
 # outfile.close()
-
-
-
-
