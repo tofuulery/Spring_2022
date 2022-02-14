@@ -8,6 +8,7 @@ import os
 import ntpath
 import sys
 import datetime as dt
+from replace_query_symbols import replace_q_symbols
 
 
 # logs the printout to a log file rather than printout in the terminal - an open text file :)
@@ -50,7 +51,7 @@ def collectSubData(subm):
         text = subm['selftext']
     except KeyError:
         text = "NaN"
-    created = datetime.datetime.fromtimestamp(subm['created_utc'])  # 1520561700.0
+    created = dt.datetime.fromtimestamp(subm['created_utc'])  # 1520561700.0
     numComms = subm['num_comments']
     postlink = subm['full_link']
     retrieved_on = subm['retrieved_on']
@@ -102,15 +103,21 @@ def txtfile_dir_maker(textfilename, csvfiledir):
 def compile_description(txt_data, d_scription):
     text_data = txt_data
     desc_txt = d_scription
-    complete_desc = 'Retrieved on: ' +  + text_data + '\n' + desc_text + '\n'
+    current_date_time = dt.datetime.now().strftime("%Y/%m/%d, %H:%M:%S")
+    complete_desc = f'Retrieved on: {current_date_time} + "\n" + {text_data} + "\n" + {desc_txt} '
 
 
-def description_to_file(t_xtfilepath, txt_data, description):
+def description_to_file(t_xtfilepath, txt_data, **kwargs):
+    if kwarg.get('description_text'):
+        desc_text = kwarg.get('description_text')
+    else:
+        desc_text = ''
     file_path = t_xtfilepath
     txt_metadata = txt_data
     descstring = description
     descr_text = f'Description/Note: {descstring}' + '\n'
-    descriptiontxt = txt_metadata + '\n' + '\n' + descr_text
+    descriptiontxt = txt_metadata + '\n' + descr_text
+    divider = str('-'*30) + '\n'
     # print(description)
     with open(file_path, 'a+', encoding='utf-8') as f:
         f.write(descriptiontxt)
@@ -118,15 +125,17 @@ def description_to_file(t_xtfilepath, txt_data, description):
 
 def updateDescfile(txtfilepath, txtmetadata):
     txt_file = txtfilepath
-    metadata = txtmetadata
+    submissiondata = txtmetadata + '\n'
+    divider = str('='*30) + '\n'
     with open(txt_file, 'a') as w:
-        w.write(metadata)
+        w.write(submissiondata)
+        w.write(divider)
     w.close()
 
 
 def get_date(t_mestamp):
     timestamp = int(t_mestamp)
-    return dt.date.fromtimestamp(timestamp)
+    return dt.datetime.fromtimestamp(timestamp)
 
 
 
@@ -134,7 +143,7 @@ directory = r'C:/Users/19033/PycharmProjects/Analysis/Delta8_Reddit_Data/'
 sub_list = ['delta8', 'Drugs', 'trees', 'altcannabinoids', 'cleancarts', 'delta8testing']
 # sub_list = 'delta8'
 # desc_text = input(f'Enter a description or note about the query and {sub_list} here: ')
-desc_text = str("enter a description here")
+desc_text = str("enter a description here" + '\n')
 filename = 'y8y8y8y89.csv'
 textfilename = csv2txtfile_namer(filename)
 
@@ -147,9 +156,10 @@ g_before = get_date(before)
 g_after = get_date(after)
 # query = r'(D8|delta8|"delta-8"|delta8|"delta 8"|"Delta-8"|d8|"Delta 8")+(safety|quality|"lab reports"|legit|safe|clean|trust)'
 query = r'delta8'
-text_metadata = f'CSV File: {filename}' + '\n' + f'Subreddits: {str(sub_list)}' + '\n' + f'Before: {g_before}' + '\n' + f'After: {g_after}' + '\n' + f'Query: + {query}'
+query_text = replace_q_symbols(query)
+q_metadata = f'CSV File: {filename}' + '\n' + f'Subreddits: {str(sub_list)}' + '\n' + f'Before: {g_before}' + '\n' + f'After: {g_after}' + '\n' + f'Query: + {query_text}'
 
-description_to_file(txtfilepath, text_metadata, desc_text)  # wrotes description and text metadata for all to .txt
+description_to_file(txtfilepath, q_metadata, description_text=desc_text)  # writes text metadata for whole query (e.g., multiple subreddits) to .txt file, longer description text in **kwarg - otherwise description_text=None
 
 
 for element in sub_list:
@@ -157,29 +167,30 @@ for element in sub_list:
     before = before
     after = after
     query = query
-    subCount = 0
+    submissionCount = 0
     subStats = {}
     size = 50
     data = getPushshiftData(query, after, before, sub)  # collect the data
-    text_metadata2 = f'CSV File: {filename}' + '\n' + f'Subreddits: {str(sub_list)}' + '\n' + f'Before: {g_before}' + '\n' + f'After: {g_after}' + '\n' + f'Query: + {query}'
+    text_metadata2 = f'CSV File: {filename}' + '\n' + f'Subreddit: {str(sub)}' + '\n' + f'Before: {g_before}' + '\n' + f'After: {g_after}' + '\n' + f'Query: {query_text}'
     data_counter = 0
     while len(data) > data_counter:
         for submission in data:
             collectSubData(submission)
-            subCount += 1
+            submissionCount += 1
             data_counter += 1
             # Calls getPushshiftData() with the created date of the last submission
             print(f'Gathering {len(data)} submissions.')
             # print(str(datetime.datetime.fromtimestamp(data[-1]['created_utc'])))
             # after = data[-1]['created_utc']
             data = getPushshiftData(query, after, before, sub)
+            submission_description = compile_description(text_metadata2, )
             # after = data[-1]['created_utc']
             print(str(len(subStats)) + " submissions have added to list")
             # updateSubs_file(subStats, filename)
+            updateDesc_file(txtfilepath, text_metadata)
 
 
     # first_entry = str(list(subStats.values())[0][0][1])
     # last_entry =  str(list(subStats.values())[-1][0][1])
-    # sample_string = f'1st entry is: {first_entry}' + '\n' + 'Created: ' + {last_entry} + '\n'
+    # sample_string = f'1st entry is: {first_entry}' + '\n' +  + {last_entry} + '\n'
     # updateDesc_file(txtfilepath, text_metadata2)
-
