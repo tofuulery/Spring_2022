@@ -15,11 +15,12 @@ def get_submissions(query, sub, after, before, limit):
 before = "1609480801"  # January 1 2021
 after = "1577858401"
 limit = 1000
-df = get_submissions('health','delta8', after, before, limit)
+df = get_submissions('regulation','delta8', after, before, limit)
 df
 
 
 
 
 #%%
-df.loc[df.title.str.contains('boof', case=False, na=False)]
+df.loc[df.title.str.contains('regulation', case=False, na=False)]
+print(df)
