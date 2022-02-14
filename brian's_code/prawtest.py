@@ -21,7 +21,7 @@ def get_submissions(query, sub, **kwarg):
 limit = 1000
 
 sublist = ['delta8', 'delta8testing']
-qlist = ['regulat|regulation','lab|report']
+qlist = ['regulat+report+law]
 
 for sub in sublist:
     for q in qlist:
