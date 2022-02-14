@@ -7,11 +7,11 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 import time
-
-# Visualization
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-from matplotlib.dates import DateFormatter
+#
+# # Visualization
+# import matplotlib.pyplot as plt
+# import matplotlib.dates as mdates
+# from matplotlib.dates import DateFormatter
 
 
 # Lets build the url which we will send requests to in order to get posts within a certain timeframe.
@@ -56,6 +56,6 @@ def get_pushshift_data(term, start, end, subreddit, num_posts, score_threshold):
 
 
 # Lets test it by getting three posts from the world news subreddit in the year 2020 that contains Trump
-ex = get_pushshift_data('Trump', '2020-01-01', '2020-12-31', 'worldnews', 3, 1000000)
+ex = get_pushshift_data('regulation', '2020-01-01', '2022-12-31', 'delta8', 500, 10000)
 
 print(ex)
