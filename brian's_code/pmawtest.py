@@ -9,14 +9,21 @@ def get_submissions(query, sub, after, before, limit):
     df = pd.DataFrame([obj.d_ for obj in gen])
     # df = pd.DataFrame(gen)
     query2 = query.replace('|','_')
+<<<<<<< HEAD
     df.to_csv('data/' +query2 + sub + '.csv')
+=======
+    df.to_csv('data/' + query + sub + '.csv')
+>>>>>>> 5633cb17b447bf00cff507f5ac4766f4101bfbd0
     return df
 
 before = "1609480801"  # January 1 2021
 after = "1577858401"
-limit = 100
-df = get_submissions('saftey','delta8', after, before, limit)
+limit = 1000
+df = get_submissions('health','delta8', after, before, limit)
+df
 
-df.subreddit_id
+
+
+
 #%%
-df.loc[df.selftext.str.contains('boof', case=False, na=False)]
+df.loc[df.title.str.contains('boof', case=False, na=False)]
