@@ -3,8 +3,8 @@ import pandas as pd
 
 reddit = praw.Reddit(client_id='lfhvscBzya8JROr7HybOGQ',
                      client_secret='HiY3yLrP45N6FVIUT0OrKuVFx7mqNA',
-                     usernme='Antikythera22',
-                     password='Nautilus265389',
+                     username='derp',
+                     password='derp',
                      user_agent='windows:scrapey:v1(by/u/Antikythera22)')
 
 subreddit_list = ['delta8', 'altcannabinoids']
