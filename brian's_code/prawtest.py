@@ -18,6 +18,11 @@ def get_submissions(query, sub, **kwarg):
     query4 = query3.replace(' ', '-')
     df.to_csv(f'../data/praw_q={query4}_subreddit={sub}.csv')
 
-limit = 100
+limit = 1000
 
-get_submissions('regulation|regulate', 'delta8', limit=limit)
+sublist = ['delta8', 'delta8testing']
+qlist = ['regulat|regulation','lab|report']
+
+for sub in sublist:
+    for q in qlist:
+        get_submissions(q, sub, limit=limit)
