@@ -1,0 +1,48 @@
+,_replies,_submission,_reddit,subreddit_id,approved_at_utc,author_is_blocked,comment_type,awarders,mod_reason_by,banned_by,author_flair_type,total_awards_received,subreddit,author_flair_template_id,likes,user_reports,saved,id,banned_at_utc,mod_reason_title,gilded,archived,collapsed_reason_code,no_follow,author,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,approved_by,mod_note,all_awardings,collapsed,body,edited,top_awarded_type,author_flair_css_class,name,is_submitter,downs,author_flair_richtext,author_patreon_flair,body_html,removal_reason,collapsed_reason,distinguished,associated_award,stickied,author_premium,can_gild,gildings,unrepliable_reason,author_flair_text_color,score_hidden,permalink,subreddit_type,locked,report_reasons,created,author_flair_text,treatment_tags,link_id,subreddit_name_prefixed,controversiality,depth,author_flair_background_color,collapsed_because_crowd_control,mod_reports,num_reports,ups,_fetched
+0,<praw.models.comment_forest.CommentForest object at 0x7fe0a3e9a370>,pe1bmy,<praw.reddit.Reddit object at 0x7fe0a30a7760>,t5_2zu88u,,False,,[],,,text,0,delta8testing,,,[],False,hau4ek6,,,0,False,,False,PortlandCanna,False,1630263646.0,True,t3_pe1bmy,7,t2_5ncqm9ny,,,[],False,"Curiously enough, someone, maybe a former mod, removed this file from google drive.
+
+from r33f:
+>TL;DR: D8 conversion makes a bunch of THC isomers that can throw off lab results. It's proving to be quite the problem, but the labs are confident there isn't D9 present in the distillates.
+
+
+
+from the report:
+>6. Conclusion and future work
+>The next steps of this investigation into the nature of the un-identified peak will be to analyze a
+sample spiked with Δ9-THC, to verify if the two peaks can be distinguished.
+>Additionally, a mass spectrometry analysis can be attempted, but the close chemistry of the 
+compounds of interest requires an extremely well-tuned method.
+>For the time being we believe that there is sufficient proof already to at least question the 
+indiscriminate identification of the unknown peak as Δ9-THC
+
+
+ProVerde and KCA, two labs that repeatedly identify d9 in delta 8 samples, both use mass spec methods.
+
+I have reached out to pharmlabs for followup, but I haven't gotten word back about any new reports",1630270121.0,,,t1_hau4ek6,True,0,[],False,"<div class=""md""><p>Curiously enough, someone, maybe a former mod, removed this file from google drive.</p>
+
+<p>from r33f:</p>
+
+<blockquote>
+<p>TL;DR: D8 conversion makes a bunch of THC isomers that can throw off lab results. It&#39;s proving to be quite the problem, but the labs are confident there isn&#39;t D9 present in the distillates.</p>
+</blockquote>
+
+<p>from the report:</p>
+
+<blockquote>
+<ol>
+<li>Conclusion and future work
+The next steps of this investigation into the nature of the un-identified peak will be to analyze a
+sample spiked with Δ9-THC, to verify if the two peaks can be distinguished.
+Additionally, a mass spectrometry analysis can be attempted, but the close chemistry of the 
+compounds of interest requires an extremely well-tuned method.
+For the time being we believe that there is sufficient proof already to at least question the 
+indiscriminate identification of the unknown peak as Δ9-THC</li>
+</ol>
+</blockquote>
+
+<p>ProVerde and KCA, two labs that repeatedly identify d9 in delta 8 samples, both use mass spec methods.</p>
+
+<p>I have reached out to pharmlabs for followup, but I haven&#39;t gotten word back about any new reports</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8testing/comments/pe1bmy/investigation_on_cannabinoids_in_δ8thc/hau4ek6/,public,False,,1630263646.0,,[],t3_pe1bmy,r/delta8testing,0,0,,,[],,7,True
+1,<praw.models.comment_forest.CommentForest object at 0x7fe0a3e9a730>,pe1bmy,<praw.reddit.Reddit object at 0x7fe0a30a7760>,t5_2zu88u,,False,,[],,,text,0,delta8testing,,,[],False,havw6tc,,,0,False,,True,Druid_Gathering,False,1630293385.0,True,t3_pe1bmy,1,t2_du9wfu9l,,,[],False,So does this mean if you use delta 8 and fail a GC/MS test for delta 9 that you have grounds for a lawsuit?,False,,,t1_havw6tc,False,0,[],False,"<div class=""md""><p>So does this mean if you use delta 8 and fail a GC/MS test for delta 9 that you have grounds for a lawsuit?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8testing/comments/pe1bmy/investigation_on_cannabinoids_in_δ8thc/havw6tc/,public,False,,1630293385.0,,[],t3_pe1bmy,r/delta8testing,0,0,,,[],,1,True

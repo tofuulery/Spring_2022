@@ -8,9 +8,7 @@ class reddithelper:
         self.reddit = praw.Reddit(
             client_id="B9p-21QJHz9QYsiiY6bFpw",
             client_secret="DEOTHnpheAYiMjAEklkPmXYLT6141A",
-            user_agent="prawtest",
-            username='squiresb6',
-            password="JfK6693@#$%"
+            user_agent="prawtest"
         )
     def getPosts(self, query, before, after, sub):
         url = f"https://api.pushshift.io/reddit/search/submission/?q={query}&before={before}&after={after}&subreddit={sub}"
@@ -36,6 +34,13 @@ class reddithelper:
         df.to_csv(f'comments_{postid}.csv')
         return df
 
+    def grab_comments_praw(self, postid):
+        post = self.reddit.submission(postid)
+        post.comments.replace_more(limit=None)
+        comments = post.comments
+        df = pd.DataFrame([vars(comment) for comment in comments])
+        return df
+
     def get_hot_post_ids(self, subreddit, limit):
         subreddit = self.reddit.subreddit(subreddit)
         postids = []
@@ -53,13 +58,13 @@ class reddithelper:
 
 
 
-# #%%
-import datetime
-rh = reddithelper()
-before = "1609480801"  # January 1 2021
-after = "1577858401"
-posts = rh.posts_to_df('delta8&saftey', before, after, 'delta8')
-
-posts#
-# #%%
-rh.getPosts('delta8|saftey', start_epoch, None, 'drugs')
+# # #%%
+# import datetime
+# rh = reddithelper()
+# before = "1609480801"  # January 1 2021
+# after = "1577858401"
+# posts = rh.posts_to_df('delta8&saftey', before, after, 'delta8')
+#
+# posts#
+# # #%%
+# rh.getPosts('delta8|saftey', start_epoch, None, 'drugs')
