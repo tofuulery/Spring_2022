@@ -16,7 +16,7 @@ for file in files:
         else:
             os.mkdir('comments_'+str(file.strip('.csv')))
             # os.chdir('comments_'+str(file.strip('.csv')))
-            for id in tqdm(df.id):
+            for id in tqdm(df.id, desc=f'{id}'):
                 try:
                     df_post = rh.grab_comments_praw(id)
                     df_post.to_csv('comments_'+file.strip('.csv') + '/' + id + '.csv')

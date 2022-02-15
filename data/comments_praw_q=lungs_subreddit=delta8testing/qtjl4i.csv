@@ -1,0 +1,28 @@
+,_replies,_submission,_reddit,subreddit_id,approved_at_utc,author_is_blocked,comment_type,awarders,mod_reason_by,banned_by,author_flair_type,total_awards_received,subreddit,author_flair_template_id,likes,user_reports,saved,id,banned_at_utc,mod_reason_title,gilded,archived,collapsed_reason_code,no_follow,author,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,approved_by,mod_note,all_awardings,collapsed,body,edited,top_awarded_type,author_flair_css_class,name,is_submitter,downs,author_flair_richtext,author_patreon_flair,body_html,removal_reason,collapsed_reason,distinguished,associated_award,stickied,author_premium,can_gild,gildings,unrepliable_reason,author_flair_text_color,score_hidden,permalink,subreddit_type,locked,report_reasons,created,author_flair_text,treatment_tags,link_id,subreddit_name_prefixed,controversiality,depth,author_flair_background_color,collapsed_because_crowd_control,mod_reports,num_reports,ups,_fetched
+0,<praw.models.comment_forest.CommentForest object at 0x000001BBD4C11F10>,qtjl4i,<praw.reddit.Reddit object at 0x000001BBD5045D60>,t5_2zu88u,,False,,[],,,text,0,delta8testing,,,[],False,hkm4z2v,,,0,False,,True,FloodMoose,False,1636913392.0,True,t3_qtjl4i,3,t2_rnni1,,,[],False,Thank you,False,,,t1_hkm4z2v,False,0,[],False,"<div class=""md""><p>Thank you</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8testing/comments/qtjl4i/subreddit_faqinfo/hkm4z2v/,public,False,,1636913392.0,,[],t3_qtjl4i,r/delta8testing,0,0,,,[],,3,True
+1,<praw.models.comment_forest.CommentForest object at 0x000001BBD4D2D970>,qtjl4i,<praw.reddit.Reddit object at 0x000001BBD5045D60>,t5_2zu88u,,False,,[],,,text,0,delta8testing,,,[],False,hkq9czs,,,0,False,,True,Tryptortoise,False,1636990315.0,True,t3_qtjl4i,0,t2_5lxscwz2,,,[],False,"It's all good information, but terrible rules for anyone who already knows it. 
+Without being able to ask, how is anyone supposed to find a decent source? 
+
+
+For anyone that will do it whether it's a good source or not, not being able to ask for a good source is directly harmful. 
+The job of a mod should be to remove and/or correct misinformation in that field. Not just shut down the conversation feom ever being had all together. 
+
+
+Not being able to discuss or recommend products that do have legitimate and good testing results, reduces the use of this sub to nearly nothing. 
+
+
+Harm reduction 2/10.
+Just my 2 cents is that this sub isn't doing any more good or less harm than the other delta subs.
+Edit: Considering that reddit doesn't enforce those rules on 90% of these subs, it would be worth having information that's actually useful and moderators that arent afraid of getting banned for providing health supporting information.",1637458770.0,,,t1_hkq9czs,False,0,[],False,"<div class=""md""><p>It&#39;s all good information, but terrible rules for anyone who already knows it. 
+Without being able to ask, how is anyone supposed to find a decent source? </p>
+
+<p>For anyone that will do it whether it&#39;s a good source or not, not being able to ask for a good source is directly harmful. 
+The job of a mod should be to remove and/or correct misinformation in that field. Not just shut down the conversation feom ever being had all together. </p>
+
+<p>Not being able to discuss or recommend products that do have legitimate and good testing results, reduces the use of this sub to nearly nothing. </p>
+
+<p>Harm reduction 2/10.
+Just my 2 cents is that this sub isn&#39;t doing any more good or less harm than the other delta subs.
+Edit: Considering that reddit doesn&#39;t enforce those rules on 90% of these subs, it would be worth having information that&#39;s actually useful and moderators that arent afraid of getting banned for providing health supporting information.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8testing/comments/qtjl4i/subreddit_faqinfo/hkq9czs/,public,False,,1636990315.0,,[],t3_qtjl4i,r/delta8testing,0,0,,,[],,0,True
