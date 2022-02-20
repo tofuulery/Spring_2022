@@ -1,0 +1,1265 @@
+,id,author,title,selftext,created,author_flair_text,link_flair_text,url,Unnamed: 0,comment_limit,comment_sort,_reddit,approved_at_utc,subreddit,author_fullname,saved,mod_reason_title,gilded,clicked,link_flair_richtext,subreddit_name_prefixed,hidden,pwls,link_flair_css_class,downs,thumbnail_height,top_awarded_type,hide_score,name,quarantine,link_flair_text_color,upvote_ratio,author_flair_background_color,subreddit_type,ups,total_awards_received,media_embed,thumbnail_width,author_flair_template_id,is_original_content,user_reports,secure_media,is_reddit_media_domain,is_meta,category,secure_media_embed,can_mod_post,score,approved_by,is_created_from_ads_ui,author_premium,thumbnail,edited,author_flair_css_class,author_flair_richtext,gildings,post_hint,content_categories,is_self,mod_note,link_flair_type,wls,removed_by_category,banned_by,author_flair_type,domain,allow_live_comments,selftext_html,likes,suggested_sort,banned_at_utc,url_overridden_by_dest,view_count,archived,no_follow,is_crosspostable,pinned,over_18,preview,all_awardings,awarders,media_only,can_gild,spoiler,locked,treatment_tags,visited,removed_by,num_reports,distinguished,subreddit_id,author_is_blocked,mod_reason_by,removal_reason,link_flair_background_color,is_robot_indexable,report_reasons,discussion_type,num_comments,send_replies,whitelist_status,contest_mode,mod_reports,author_patreon_flair,author_flair_text_color,permalink,parent_whitelist_status,stickied,subreddit_subscribers,created_utc,num_crossposts,media,is_video,_fetched,_comments_by_id,link_flair_template_id
+0,o2cv6j,Slow_Mangos,Texas legislature avoids outlawing Delta 8 and other THC products,,1623978367.0,,,https://www.kristv.com/news/local-news/texas-legislature-avoids-outlawing-delta-8-and-other-thc-products,0,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_1edgczsz,False,,0,False,[],r/politics,False,6,,0,73.0,,False,t3_o2cv6j,False,dark,0.92,,public,66,0,{},140.0,,False,[],,False,False,,{},False,66,,False,False,https://a.thumbs.redditmedia.com/hNmr4JqZ-hqRowk4qXbHH47ltv4O_QHsBi8EMpglIg8.jpg,False,,[],{},link,,False,,text,6,,,text,kristv.com,True,,,,,https://www.kristv.com/news/local-news/texas-legislature-avoids-outlawing-delta-8-and-other-thc-products,,True,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?auto=webp&s=6cc8d7c5c422470cd514e4da0d6bf7cc131e4add', 'width': 1200, 'height': 630}, 'resolutions': [{'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?width=108&crop=smart&auto=webp&s=518327ef86eb110ea2c1a16e79c0ad0ac6ef0f77', 'width': 108, 'height': 56}, {'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?width=216&crop=smart&auto=webp&s=d76a287f19c92a1ec6b7a31ee9d70c85e7277ad3', 'width': 216, 'height': 113}, {'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?width=320&crop=smart&auto=webp&s=f81db5bb97c812c5e3afb33c97b5d5a661eacdd5', 'width': 320, 'height': 168}, {'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?width=640&crop=smart&auto=webp&s=e681be99b5d18fb59750fc42c177ff87caea1dec', 'width': 640, 'height': 336}, {'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?width=960&crop=smart&auto=webp&s=e6e53bec0ee004969c72f364971a85ce9d1cf3a5', 'width': 960, 'height': 504}, {'url': 'https://external-preview.redd.it/PRco-_HRC-28jo8ZsALIcFXlwBhW04idBgiK91Uiawk.jpg?width=1080&crop=smart&auto=webp&s=6047665c648d7118303cde1d087fe519be671ff4', 'width': 1080, 'height': 567}], 'variants': {}, 'id': 'AT-kwTYD4WInfqqGApL7-GDPGL1de5ejMqApTnSzEz4'}], 'enabled': False}",[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,14,False,all_ads,False,[],False,,/r/politics/comments/o2cv6j/texas_legislature_avoids_outlawing_delta_8_and/,all_ads,False,7905707,1623978367.0,0,,False,False,{},
+1,rllulx,PoliticsModeratorBot,Discussion: President Biden Delivers Remarks on the Status of the Country’s Fight Against COVID-19 | 2:30PM ET,"President Joe Biden will deliver remarks to the American people on Tuesday as Omicron has become the dominant COVID strain in the nation.
+
+Omicron accounts for about 73 percent of the sequenced cases in the U.S., rapidly overtaking the Delta variant. At least one person has died in the United States from this latest strain, and Biden is urging Americans to get vaccinated and receive their booster if they're eligible.
+
+Watch live on [The Whitehouse youtube stream](https://www.youtube.com/watch?v=rHtBYfFc-oA)",1640114069.0,🤖 Bot,Discussion,https://www.reddit.com/r/politics/comments/rllulx/discussion_president_biden_delivers_remarks_on/,1,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_onl9u,False,,0,False,"[{'e': 'text', 't': 'Discussion'}]",r/politics,False,6,discussion,0,,,False,t3_rllulx,False,dark,0.93,,public,731,1,{},,,False,[],,False,False,,{},False,731,,False,True,self,False,,"[{'e': 'text', 't': '🤖 Bot'}]",{},self,,True,,richtext,6,,,richtext,self.politics,True,"<!-- SC_OFF --><div class=""md""><p>President Joe Biden will deliver remarks to the American people on Tuesday as Omicron has become the dominant COVID strain in the nation.</p>
+
+<p>Omicron accounts for about 73 percent of the sequenced cases in the U.S., rapidly overtaking the Delta variant. At least one person has died in the United States from this latest strain, and Biden is urging Americans to get vaccinated and receive their booster if they&#39;re eligible.</p>
+
+<p>Watch live on <a href=""https://www.youtube.com/watch?v=rHtBYfFc-oA"">The Whitehouse youtube stream</a></p>
+</div><!-- SC_ON -->",,new,,,,False,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?auto=webp&s=298e71671596abd32d7f8350a7ea562c599cede7', 'width': 480, 'height': 360}, 'resolutions': [{'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?width=108&crop=smart&auto=webp&s=882526f2f43d85f6fa3eaaeb6a3071eee0b24ed1', 'width': 108, 'height': 81}, {'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?width=216&crop=smart&auto=webp&s=02691d3bfdad51ca4164468aa058231bf3ae27c5', 'width': 216, 'height': 162}, {'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?width=320&crop=smart&auto=webp&s=6329947da03479f657fcbf9d72f1de8f2432a33d', 'width': 320, 'height': 240}], 'variants': {}, 'id': '8QvIwVScxPi0aMuOC-YzrD6GNY1GiIIRnXPVGpHeug0'}], 'enabled': False}","[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 150, 'id': 'award_f44611f1-b89e-46dc-97fe-892280b13b82', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Thank you stranger. Shows the award.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Helpful', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png'}]",[],False,False,False,False,[],False,,,moderator,t5_2cneq,False,,,,True,,,1397,False,all_ads,False,[],False,dark,/r/politics/comments/rllulx/discussion_president_biden_delivers_remarks_on/,all_ads,False,7905707,1640114069.0,0,,False,False,{},179e52d8-20d7-11e9-8c4b-0e4168feb42e
+2,pl60a1,PoliticsModeratorBot,Discussion Thread: President Biden Outlines Plan to Stop the Delta Variant & Boost COVID-19 Vaccinations,"""President Biden is expected to address the nation today at 5:00 PM ET on the next phase of his pandemic response. The six prong plan is expected to include components on steps for schools, healthcare facilities, and private companies to take to mitigate the spread of the virus. In addition, Biden plans to require all federal employees and government contractors to be vaccinated.
+
+COVID has killed over 654,000 Americans, and the more easily transmissible Delta Variant has caused a sharp spike in hospitalizations. According to data compiled by Johns Hopkins University, the nation is reporting an average of 151,500 new cases and 1,500 deaths per day.
+
+**Live Streams:**
+
+* [White House](https://www.youtube.com/watch?v=RSFRFVIJqC4)
+* [C-Span](https://www.c-span.org/video/?514532-1/president-biden-outlines-plan-delta-variant-vaccinations)
+* [PBS](https://www.youtube.com/watch?v=RPCVh0UZl7M)",1631219553.0,🤖 Bot,Discussion,https://www.reddit.com/r/politics/comments/pl60a1/discussion_thread_president_biden_outlines_plan/,2,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_onl9u,False,,0,False,"[{'e': 'text', 't': 'Discussion'}]",r/politics,False,6,,0,,,False,t3_pl60a1,False,dark,0.93,,public,1712,1,{},,,False,[],,False,False,,{},False,1712,,False,True,self,1631220005.0,,"[{'e': 'text', 't': '🤖 Bot'}]",{},self,,True,,richtext,6,,,richtext,self.politics,True,"<!-- SC_OFF --><div class=""md""><p>&quot;President Biden is expected to address the nation today at 5:00 PM ET on the next phase of his pandemic response. The six prong plan is expected to include components on steps for schools, healthcare facilities, and private companies to take to mitigate the spread of the virus. In addition, Biden plans to require all federal employees and government contractors to be vaccinated.</p>
+
+<p>COVID has killed over 654,000 Americans, and the more easily transmissible Delta Variant has caused a sharp spike in hospitalizations. According to data compiled by Johns Hopkins University, the nation is reporting an average of 151,500 new cases and 1,500 deaths per day.</p>
+
+<p><strong>Live Streams:</strong></p>
+
+<ul>
+<li><a href=""https://www.youtube.com/watch?v=RSFRFVIJqC4"">White House</a></li>
+<li><a href=""https://www.c-span.org/video/?514532-1/president-biden-outlines-plan-delta-variant-vaccinations"">C-Span</a></li>
+<li><a href=""https://www.youtube.com/watch?v=RPCVh0UZl7M"">PBS</a></li>
+</ul>
+</div><!-- SC_ON -->",,new,,,,False,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?auto=webp&s=298e71671596abd32d7f8350a7ea562c599cede7', 'width': 480, 'height': 360}, 'resolutions': [{'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?width=108&crop=smart&auto=webp&s=882526f2f43d85f6fa3eaaeb6a3071eee0b24ed1', 'width': 108, 'height': 81}, {'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?width=216&crop=smart&auto=webp&s=02691d3bfdad51ca4164468aa058231bf3ae27c5', 'width': 216, 'height': 162}, {'url': 'https://external-preview.redd.it/2HTBLSt2aYJQAcbsG3-VOHOQq5x9tBM5j6Xnc1eGRSU.jpg?width=320&crop=smart&auto=webp&s=6329947da03479f657fcbf9d72f1de8f2432a33d', 'width': 320, 'height': 240}], 'variants': {}, 'id': '8QvIwVScxPi0aMuOC-YzrD6GNY1GiIIRnXPVGpHeug0'}], 'enabled': False}","[{'giver_coin_reward': None, 'subreddit_id': None, 'is_new': False, 'days_of_drip_extension': 0, 'coin_price': 150, 'id': 'award_f44611f1-b89e-46dc-97fe-892280b13b82', 'penny_donate': None, 'award_sub_type': 'GLOBAL', 'coin_reward': 0, 'icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png', 'days_of_premium': 0, 'tiers_by_required_awardings': None, 'resized_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_width': 2048, 'static_icon_width': 2048, 'start_date': None, 'is_enabled': True, 'awardings_required_to_grant_benefits': None, 'description': 'Thank you stranger. Shows the award.', 'end_date': None, 'subreddit_coin_reward': 0, 'count': 1, 'static_icon_height': 2048, 'name': 'Helpful', 'resized_static_icons': [{'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45', 'width': 16, 'height': 16}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1', 'width': 32, 'height': 32}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d', 'width': 48, 'height': 48}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11', 'width': 64, 'height': 64}, {'url': 'https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878', 'width': 128, 'height': 128}], 'icon_format': None, 'icon_height': 2048, 'penny_price': None, 'award_type': 'global', 'static_icon_url': 'https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png'}]",[],False,False,False,False,[],False,,,moderator,t5_2cneq,False,,,,True,,,4212,False,all_ads,False,[],False,dark,/r/politics/comments/pl60a1/discussion_thread_president_biden_outlines_plan/,all_ads,False,7905707,1631219553.0,0,,False,False,{},
+3,6zzx44,PoliticsModeratorBot,"Megathread: President Trump Reportedly Reaches Compromise with Top Democrats on DACA, Border Security","Top House and Senate Democrats said Wednesday they had reached agreement with President Donald Trump on DACA and funding border security enhancements.
+
+---
+
+##Submissions that may interest you
+
+TITLE | SUBMITTED BY:
+---|----
+[Trump just reached a deal with top Democrats to protect 'dreamers'  and they say it doesn't include wall funding](http://www.businessinsider.com/nancy-pelosi-chuck-schumer-daca-deal-immigration-border-wall-2017-9) | /u/seeasea
+[Schumer, Pelosi, Trump 'agree' to fix DACA, border security 'excluding' wall](http://www.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html?adkey=bn) | /u/TheDynamis
+[Pelosi and Schumer Say They Have Deal With Trump to Replace DACA](https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?action=Click&contentCollection=BreakingNews&contentID=65820661&pgtype=article) | /u/timalk
+[Schumer, Pelosi say DACA deal will exclude wall after dinner with Trump](http://www.washingtonexaminer.com/schumer-pelosi-say-daca-deal-will-exclude-wall-after-dinner-with-trump/article/2634356) | /u/tedivm
+[Schumer, Pelosi reach deal with Trump for DACA protections](http://nypost.com/2017/09/13/schumer-pelosi-reach-deal-with-trump-for-daca-protections/) | /u/BitsInTheBlood
+[Schumer, Pelosi announce deal with Trump to protect young immigrants; will include border security, but no wall](https://lasvegassun.com/news/2017/sep/14/schumer-pelosi-announce-deal-with-trump-to-protect/) | /u/witfenek
+[Pelosi and Schumer Say They Have Deal With Trump to Replace DACA](https://mobile.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?action=click&module=Top%20Stories&pgtype=Homepage) | /u/StupendousMan1995
+[Trump, Top Democrats Agree on Young Immigrants](https://www.washingtonpost.com/amphtml/politics/congress/the-latest-trump-top-democrats-agree-on-young-immigrants/2017/09/13/c66069de-98f0-11e7-af6a-6555caaeb8dc_story.html) | /u/lasagnaman
+[Report: Trump Caves on DACA, Wants 'Quick' Amnesty for 800K Illegal Aliens - Breitbart](http://www.breitbart.com/big-government/2017/09/13/report-trump-caves-on-daca-wants-quick-amnesty-for-800k-illegal-aliens/amp/) | /u/420nopescope69
+[Pelosi and Schumer Say They Have Deal With Trump to Replace DACA](https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?mcubz=0) | /u/TimeMachineToaster
+[Senior Democrats say agreement reached with Trump to protect young immigrants](https://www.theguardian.com/us-news/2017/sep/14/senior-democrats-say-agreement-reached-with-trump-to-protect-young-immigrants?CMP=Share_AndroidApp_reddit_is_fun) | /u/muddypaws
+[Schumer, Pelosi say they have deal with Trump to protect 'Dreamers'](http://www.foxnews.com/politics/2017/09/13/schumer-pelosi-say-have-deal-with-trump-to-protect-dreamers.html) | /u/siapanyana
+[Trump Has Reached a Compromise with Top Democrats on DACA](http://time.com/4940903/trump-daca-program-protections/) | /u/indifferentoyou
+[Schumer, Pelosi announce deal with Trump to protect young immigrants; will include border security, but no wall](http://www.sfgate.com/news/amp/Schumer-Pelosi-announce-deal-with-Trump-to-12196211.php) | /u/mattjnwny
+[Top Democrats strike deal with Trump to protect young immigrants](http://www.wlbz2.com/news/nation-world/top-democrats-strike-deal-with-trump-to-protect-young-immigrants/474689945) | /u/Tastylicious
+[Trump proposes linking immigration cuts to protecting 'Dreamers': lawmaker](http://www.reuters.com/article/us-usa-immigration-trump/trump-proposes-linking-immigration-cuts-to-protecting-dreamers-lawmaker-idUSKCN1BO2Y6?utm_campaign=trueAnthem%3A+Trending+Content&utm_content=59b9da6e04d3012f99421fbe&utm_medium=trueAnthem&utm_source=facebook) | /u/Majnum
+[Schumer, Pelosi Announce Agreement With Trump on DACA](https://www.bloomberg.com/news/articles/2017-09-14/ap-newsalert-schumer-pelosi-announce-deal-with-trump-to-protect-young-immigrants-will-include-border-security-but-no-wall) | /u/Cato1789
+[Trump and Democrats reach a DACA deal  without the border wall](https://www.cnbc.com/2017/09/13/trump-and-democrats-reach-a-daca-deal--without-the-border-wall.html) | /u/RikersTrombone
+[Democrats say they have deal with Trump on young immigrants](https://apnews.com/5ac2b359ee2a48ce8c9b08d5c77ae253/Democrats-say-they-have-deal-with-Trump-on-young-immigrants) | /u/Cranyx
+[Senior Democrats say agreement reached with Trump to protect young immigrants](https://www.theguardian.com/us-news/2017/sep/14/senior-democrats-say-agreement-reached-with-trump-to-protect-young-immigrants) | /u/guarruda
+[The Latest: Trump, top Democrats agree on young immigrants](https://www.yahoo.com/news/latest-trump-top-democrats-agree-young-immigrants-015848937--politics.html) | /u/seeasea
+[Democrats claim to near deal with Trump on young, undocumented immigrants](http://abcnews.go.com/Politics/democrats-claim-deal-trump-young-undocumented-immigrants/story?id=49837488) | /u/santetnurickr
+[Democrats say they have deal with Trump on young immigrants](https://apnews.com/5ac2b359ee2a48ce8c9b08d5c77ae253) | /u/creme_oner
+[Trump, top Democrats agree to work on deal to save dreamers from deportation](https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/) | /u/Bellarz416
+[Democrats say they have deal with Trump on young immigrants](https://www.washingtonpost.com/politics/congress/trump-urges-bipartisan-fix-for-young-immigrants/2017/09/13/1b87085e-98e8-11e7-af6a-6555caaeb8dc_story.html?utm_term=.ef63a909cb97) | /u/guarruda
+[Trump, top Democrats agree to work on deal to save DACA](https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/?pushid=59b9e5e5d4ac501c00000033&tid=notifi_push_breaking-news&utm_term=.650921f2a899) | /u/slakmehl
+[Schumer, Pelosi announce deal with Trump to protect young immigrants; will include border security, but no wall](https://www.washingtonpost.com/politics/congress/schumer-pelosi-announce-deal-with-trump-to-protect-young-immigrants-will-include-border-security-but-no-wall/2017/09/13/514c7b5c-98ef-11e7-af6a-6555caaeb8dc_story.html) | /u/FadeToDankness
+[Democrats say they have deal with Trump on DACA immigrants](http://www.eastbaytimes.com/2017/09/13/democrats-say-they-have-deal-with-trump-on-daca-immigrants/) | /u/maxcrazy
+[Nancy Pelosi And Chuck Schumer Say Trump Agreed On A Deal To Protect DREAMers](https://www.buzzfeed.com/mattberman/nancy-pelosi-and-chuck-schumer-say-trump-has-agreed-to-a?utm_term=.pvEdQ8MrLB#.pvEdQ8MrLB) | /u/Caliliberal
+[Schumer, Pelosi say Trump agreed to replace DACA without wall](https://www.axios.com/schumer-pelosi-say-trump-agreed-to-replace-daca-without-wall-2485002954.html?utm_source=twitter&utm_medium=social&utm_campaign=organic) | /u/Antinatalista
+[Trump, Dem leaders reach agreement on young immigrants](http://thehill.com/homenews/administration/350596-trump-holds-working-dinner-with-schumer-pelosi) | /u/BravoMikeFoxtrot
+[Trump, Top Democrats Agree to Work on Deal to Save DACA](https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/?utm_term=.780d5456ed5b) | /u/ianhiggs
+[The Latest: Trump, top Democrats agree on young immigrants](https://www.yahoo.com/news/latest-trump-top-democrats-agree-young-immigrants-015848937--politics.html?soc_trk=gcm&soc_src=5b2061e4-87d9-11e5-93d4-fa163e6f4a7e&.tsrc=notification-brknews) | /u/ItsJustMeAgainHarper
+[Schumer, Pelosi, Trump 'agree' to fix DACA, border security 'excluding' wall](http://www.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html) | /u/catestone
+[Trump, top Democrats agree to work on deal to save dreamers from deportation](https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/?hpid=hp_hp-top-table-main_daca1013pm%3Ahomepage%2Fstory&utm_term=.4fc6aacc7955) | /u/WompaStompa_
+[Trump Has Reached a Compromise with Top Democrats on DACA](http://time.com/4940903/trump-daca-program-protections/?utm_campaign=time&utm_source=twitter.com&utm_medium=social&xid=time_socialflow_twitter) | /u/Jump_Yossarian
+[Trump and Democrats reach a DACA deal  without the border wall](https://www.cnbc.com/amp/2017/09/13/trump-and-democrats-reach-a-daca-deal--without-the-border-wall.html) | /u/r_lopez
+[Pelosi and Schumer Joint Statement on Dinner with President Trump](https://www.democraticleader.gov/newsroom/91317-5/) | /u/LineNoise
+[Schumer, Pelosi announce deal with Trump to save Dreamers from deportation](http://www.chicagotribune.com/news/nationworld/politics/ct-trump-democrats-immigration-deal-20170913-story.html) | /u/Theobidis
+[Nancy Pelosi And Chuck Schumer Say Trump Agreed On A Deal To Protect DREAMers](https://www.buzzfeed.com/mattberman/nancy-pelosi-and-chuck-schumer-say-trump-has-agreed-to-a?utm_term=.rlyaN378G#.hb6QvLz6y) | /u/thesteveway
+[Democrats, Trump reach deal on young immigrants](http://www.journalgazette.net/news/politics/20170913/democrats-trump-reach-deal-on-young-immigrants) | /u/awaiscc
+[Pelosi and Schumer Say They Have Deal With Trump to Replace DACA](https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?rref=collection%2Fsectioncollection%2Fpolitics) | /u/WonderPug2
+[Report: Trump Caves on DACA, Wants 'Quick' Amnesty for 800K Illegal Aliens](http://www.breitbart.com/big-government/2017/09/13/report-trump-caves-on-daca-wants-quick-amnesty-for-800k-illegal-aliens/) | /u/Eurynom0s
+[Trump, congressional Democrats reach deal on 'dreamers,' border security -- but no wall](http://www.cleveland.com/nation/index.ssf/2017/09/trump_congressional_democrats.html) | /u/cdtoad
+[Schumer, Pelosi tout a DACA deal with Trump, but White House says not quite](https://www.nbcnews.com/politics/politics-news/trump-democratic-leaders-closer-deal-make-daca-protections-law-n801196) | /u/spsheridan
+[BBC News: Trump and Democrats 'reach deal' over Daca Dreamers](http://www.bbc.co.uk/news/world-us-canada-41262809) | /u/JoeinJapan
+[Trump and Democrats 'reach deal' over Daca Dreamers](http://www.bbc.com/news/world-us-canada-41262809) | /u/Hongking00
+[Democrats Say They Have Tentative Dreamers Deal With Trump](https://www.bloomberg.com/news/articles/2017-09-13/trump-wants-congress-vote-on-dreamer-migrants-democrat-says) | /u/MDCCCLV
+[Top Democrats just announced they struck a deal with Trump to protect DACA](https://www.vox.com/2017/9/13/16305690/top-democrats-announced-daca-deal-trump) | /u/chemnerd6021023
+[Schumer, Pelosi, Trump 'agree' to fix DACA, disagree on the details](http://edition.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html) | /u/Hadiamalik
+[Pelosi and Schumer Say They Have Deal With Trump to Replace DACA](https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news) | /u/mori226
+[Schumer, Pelosi, Trump 'agree' to fix DACA, disagree on the details](http://edition.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html?sr=twCNNp091317chuck-schumer-nancy-pelosi-donald-trump1026PMStory&CNNPolitics=Tw) | /u/Millsjack
+[DEMS ANNOUNCE DACA DEAL  Trump pushes back: 'No deal'  GOP FORMS DREAMER WORKING GROUP  Gun silencer bill moves forward](http://www.politico.com/tipsheets/huddle/2017/09/14/dems-announce-daca-deal-from-twitter-trump-pushes-back-gop-forms-dreamer-working-group-gun-silencer-bill-moves-forward-222276) | /u/JudyAltaf
+[Trump: 'Fairly close' to DACA deal](http://thehill.com/homenews/administration/350617-trump-fairly-close-to-daca-deal) | /u/johnsnow2017
+[Breitbart Gives Trump Base Amnesty Don Rallying Cry Against DACA](http://talkingpointsmemo.com/livewire/breitbart-trump-base-amnesty-don-rallying-cry-daca-decision?utm_content=buffereb132&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | /u/saucytryhard
+[Trump confirms he is working on Democrat DACA deal without wall funding despite White House denying it](http://www.independent.co.uk/news/world/americas/us-politics/trump-daca-wall-democrats-deal-immigration-dreamers-schumer-pelosi-tweets-white-house-a7946861.html) | /u/PikachuSquarepants
+[Graham to Trump: Focus on Obamacare repeal, not DACA](http://www.politico.com/story/2017/09/14/lindsey-graham-trump-obamacare-repeal-242710) | /u/JudyAltaf
+[Dems: Trump's tweets 'not inconsistent' with DACA agreement](http://thehill.com/homenews/administration/350613-dems-trumps-tweets-not-inconsistent-with-daca-agreement) | /u/Xatencio00
+[Trumps DACA deal with Democrats is political suicide, conservatives say](http://www.salon.com/2017/09/14/trumps-daca-deal-with-democrats-is-political-suicide-conservatives-say/) | /u/MabelBaird
+[Breitbart News Dubs Trump Amnesty Don After Late-Night DACA Deal](http://nymag.com/daily/intelligencer/2017/09/breitbart-news-dubs-trump-amnesty-don.html) | /u/AldoTheeApache
+[ANALYSIS: Trump's DACA dealings throw Republicans and Democrats for a loop](http://abcnews.go.com/Politics/analysis-trumps-daca-dealings-throw-republicans-democrats-loop/story?id=49845889) | /u/lawblogz
+[Trump die-hards divided over DACA deal](http://www.politico.com/story/2017/09/14/trump-daca-deal-democrats-conservatives-react-242709) | /u/Nicole0021
+[Longtime Trump supporter: Trump just screwed his base with DACA deal with Dems](http://thehill.com/homenews/350611-longtime-trump-supporter-trump-just-screwed-his-base-with-daca-deal-with-dems) | /u/Bobalubolobacue
+[Donald Trump Denies DACA Deal, But Doesnt Dispute Its Key Points](http://www.huffingtonpost.com/entry/trump-border-wall-daca_us_59ba570ee4b0edff971983ee?section=us_politics) | /u/Hannah0021
+[Trump Says No Deal Was Reached With Democrats to Extend DACA](https://www.nbcnews.com/politics/donald-trump/trump-says-no-deal-was-reached-democrats-extend-daca-n801236) | /u/guarruda
+[BREAKING NEWS GOPs Ryan dismisses potential DACA deal between Trump and Democrats](https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?hpid=hp_hp-top-table-main_dacahill-1125a%3Ahomepage%2Fstory&utm_term=.aa84410265b3) | /u/EggsAckley
+[Ryan dismisses potential DACA deal between Trump and Democrats](https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?hpid=hp_hp-top-table-main_dacahill-1125a:homepage/story&utm_term=.3393e24100d8&wpisrc=al_alert-politics&wpmk=1) | /u/pipsdontsqueak
+[Conservatives are ripping Trump over news of a bipartisan DACA deal](http://www.businessinsider.com/trump-daca-deal-democrats-conservative-right-wing-reaction-chuck-schumer-nancy-pelosi-2017-9) | /u/MrGreyMan
+[Ryan dismisses potential DACA deal between Trump and Democrats](https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?hpid=hp_hp-top-table-main_dacahill-1125a%3Ahomepage%2Fstory) | /u/boidey
+[Conservatives Recoil at Trumps Accommodation With Democrats Over DACA](https://www.nytimes.com/2017/09/14/us/politics/conservatives-trump-democrats-daca.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news) | /u/teknub
+[Conservatives lash out at Trump after alleged DACA agreement with Pelosi, Schumer](https://www.cbsnews.com/news/conservatives-lash-out-at-trump-after-alleged-daca-deal/) | /u/Stoga
+[Why Trumps DACA Deal Will Lead to His Impeachment](https://lawnewz.com/high-profile/why-trumps-daca-deal-will-lead-to-his-impeachment/) | /u/Bobalubolobacue
+[Donald Trump: The Wall Will Come Later After DACA Amnesty Deal](http://www.breitbart.com/big-government/2017/09/14/donald-trump-the-wall-will-come-later-after-daca-amnesty-deal/) | /u/pacman_sl
+[Jimmy Carter defends Trump on DACA actions](http://edition.cnn.com/2017/09/14/politics/jimmy-carter-trump-daca/index.html) | /u/condorbox
+[Democrats Dare to Trust Trump on DACA](https://www.theatlantic.com/politics/archive/2017/09/democrats-dare-to-trust-trump-on-daca/539874/) | /u/MarieD_Boris
+[Chris Wallace: Trump's DACA Talks With Dems Are 'As Clear as Mud'](http://insider.foxnews.com/2017/09/14/trump-meets-democrats-schumer-pelosi-discuss-immigration-daca-dreamers) | /u/Etanla
+[Conservatives Recoil at Trumps Accommodation With Democrats Over DACA](https://www.nytimes.com/2017/09/14/us/politics/conservatives-trump-democrats-daca.html) | /u/CulterDei
+[As Trump talks DACA deal with Democrats, GOP leaders try to reassert control](https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?utm_term=.db69e57bb876) | /u/The_Lord_Humungus
+[Paul Ryan: No agreement between Trump and Dems on DACA](https://www.cnbc.com/2017/09/14/paul-ryan-there-is-no-agreement-between-trump-and-democrats-on-daca.html) | /u/Callofapple123
+[9 Lies About DACA Trump Is Buying Into](http://www.breitbart.com/big-government/2017/09/14/9-lies-about-daca-trump-is-buying-into/) | /u/Etanla
+[Trump and Democrats strike DACA deal. Yes? No? Sort of? Trump's world can be confusing.](https://www.washingtonpost.com/politics/trump-and-democrats-strike-daca-deal-yes-no-sort-of-trumps-world-can-be-confusing/2017/09/14/ab6a40d4-9970-11e7-82e4-f1076f6d6152_story.html) | /u/eman00619
+[Trump and Democrats strike DACA deal. Yes? No? Sort of? Trump's world can be confusing.](https://www.washingtonpost.com/politics/trump-and-democrats-strike-daca-deal-yes-no-sort-of-trumps-world-can-be-confusing/2017/09/14/ab6a40d4-9970-11e7-82e4-f1076f6d6152_story.html?utm_term=.bd3e190e3e1d) | /u/bikinbarulagi
+[Donald Trump Basks in the Glow From His Dem-DACA-Deal](http://www.thedailybeast.com/donald-trump-basks-in-the-glow-from-his-dem-daca-deal) | /u/ceaguila84
+[Conservatives Fume Over DACA Deal As Trump Tries To Mollify His Base](http://www.npr.org/2017/09/14/551053707/conservatives-fume-over-daca-deal-as-trump-tries-to-mollify-his-base) | /u/xumun
+[Trump sees compromise on extending DACA; 'the wall will come later'](https://www.yahoo.com/news/trump-sees-compromise-extending-daca-wall-will-come-later-2-141519875.html) | /u/exxocetN
+[The Daily 202: Trump's DACA 'deal' is another humiliation for Jeff Sessions](https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/09/15/daily-202-trump-s-daca-deal-is-another-humiliation-for-jeff-sessions/59bb011f30fb045176650cd1/) | /u/WonderPug2
+[Republicans are fuming over Trumps DACA deal with Chuck and Nancy](https://news.vice.com/story/republicans-are-fuming-over-trumps-daca-deal-with-chuck-and-nancy) | /u/Antinatalista
+[How Many Supporters Do Trumps Conservative Critics on DACA Have?](https://www.newyorker.com/news/john-cassidy/how-many-supporters-do-trumps-conservative-critics-on-daca-have?mbid=social_twitter) | /u/Antinatalista
+[Trump's 'Make America Great Again' hats burned over Daca deal](http://www.bbc.com/news/world-us-canada-41279520) | /u/NSA_Monitoring
+[Trump Backers Burn MAGA Hats in DACA Protest](https://www.usnews.com/news/national-news/articles/2017-09-15/trump-backers-burn-make-america-great-again-hats-in-protest-of-daca-talks) | /u/guarruda
+[The Trump administration is twisting itself into knots to try and explain why a DACA deal wouldn't be 'amnesty'](http://www.businessinsider.com/white-house-daca-trump-amnesty-2017-9) | /u/imagepoem
+[Tracking Trump: Clinton warns of dystopia and Trump pivots on Daca](https://www.theguardian.com/us-news/2017/sep/15/tracking-trump-clinton-memoir-daca-democrats-deal) | /u/BessieAAndrew
+[Steve King: I wont leave Trump over DACA](http://thehill.com/blogs/blog-briefing-room/351000-steve-king-i-wont-leave-trump-over-daca) | /u/unholyprawn
+[The Note: Trump's surrealist art of the deal on DACA](http://abcnews.go.com/Politics/note-trumps-surrealist-art-deal-daca/story?id=49868489) | /u/verify786
+[Cotton: Trump called me to say there is no deal on DACA](http://thehill.com/homenews/sunday-talk-shows/351067-cotton-trump-called-me-to-say-there-is-no-deal-on-daca) | /u/unholyprawn
+[California Assembly approves resolution denouncing Trump's decision on DACA](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-california-state-assembly-approves-1505346476-htmlstory.html) | /u/MultiKdizzle
+[Six Dreamers sue Trump administration over DACA decision](http://www.reuters.com/article/us-usa-immigration-lawsuit/six-dreamers-sue-trump-administration-over-daca-decision-idUSKCN1BT14F?il=0) | /u/TragicDonut
+[Dreamers sue Trump for ending DACA](http://thehill.com/homenews/administration/351141-dreamers-sue-trump-for-ending-daca) | /u/wil_daven_
+[DACA recipients file suit over Trump's move to end program](http://www.politico.com/blogs/under-the-radar/2017/09/18/daca-lawsuit-trump-242838) | /u/samdecsec
+[Six Dreamers sue Trump administration over DACA decision](http://www.reuters.com/article/us-usa-immigration-lawsuit/six-dreamers-sue-trump-administration-over-daca-decision-idUSKCN1BT14F) | /u/Stoga
+[Pelosi Shouted Down by Activists Over DACA Deal With Trump](https://www.bloomberg.com/news/articles/2017-09-18/pelosi-shouted-down-by-immigrants-over-daca-deal-with-trump) | /u/sfgiantsfan650
+[Protesters shut down Pelosi news conference on DACA, chanting, All of us or none of us](http://www.sfgate.com/news/article/Protesters-shut-down-Pelosi-news-conference-on-12206788.php?cmpid=reddit-desktop) | /u/RileyWWarrick
+[Nancy Pelosi shouted down at DACA news conference for working with Trump](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-nancy-pelosi-shouted-down-at-daca-press-1505760392-htmlstory.html) | /u/Madstork1981
+[NAACP sues Trump for ending DACA](http://thehill.com/homenews/administration/351219-naacp-sues-trump-for-ending-daca) | /u/samdecsec
+[Illegal Aliens Crash Nancy Pelosi's DACA Press Conference: 'All of Us or None of Us!' Fight 4 All 11 Million, And there it is they want all illegals to be allowed to stay.](http://www.breitbart.com/california/2017/09/18/illegal-aliens-crash-nancy-pelosis-daca-press-conference/) | /u/BimboDickins
+[President Donald Trump's Half True claim that support for DACA is as high as '92 percent'](http://www.politifact.com/truth-o-meter/statements/2017/sep/18/donald-trump/president-donald-trumps-half-true-claim-support-da/) | /u/PikachuSquarepants
+[Trump's DACA Moves Aren't Shaking His Most Loyal Supporters](http://www.npr.org/2017/09/18/551778427/trump-s-daca-moves-aren-t-shaking-his-most-loyal-supporters?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20170918) | /u/Ummland
+[Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump](https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/?utm_term=.6c7ce56f9ad3) | /u/porterpamela62
+[Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump](https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/?utm_term=.5449ad4f63cc) | /u/colonel_j
+[Protesters shut down Pelosi news conference on DACA: All of us or none of us](http://www.sfgate.com/news/article/Protesters-shut-down-Pelosi-news-conference-on-12206788.php) | /u/Swiggy
+[Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump](https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/) | /u/spartan2600
+['You Don't Have a Right to Demand Anything': Tucker Blasts DACA Activists Shouting Down Pelosi](http://insider.foxnews.com/2017/09/18/daca-supporters-shout-down-nancy-pelosi-press-conference-over-trump-support) | /u/Etanla
+[DACA recipients protest Pelosi's deal with Trump: 'We are not a bargaining chip'](http://www.baltimoresun.com/news/nation-world/ct-daca-pelosi-protest-20170918-story.html) | /u/RedditRegerts
+[PELOSI targeted by protesters on DACA -- NEW POLL: Majority of Californians considering a move? -- BROWN on GOP 'cave dwellers' -- DELTA TUNNELS battle](http://www.politico.com/tipsheets/california-playbook/2017/09/19/pelosi-targeted-by-protesters-on-daca-new-poll-more-than-half-californians-considering-a-move-jerry-brown-on-gop-cave-dwellers-222344) | /u/JudyAltaf
+[Pro-DACA protesters call Pelosi a 'liar'](http://www.politico.com/story/2017/09/18/nancy-pelosi-daca-protest-242850) | /u/Thisiswhy_Trump_Won
+[Everyone Is Confused About What Trump Is Doing With DACA](http://www.rollingstone.com/politics/features/everyone-is-confused-about-what-trump-is-doing-with-daca-w503137) | /u/tapoutmb
+[Congressmen arrested outside Trump Tower for participating in a DACA protest](http://thehill.com/latino/351365-democratic-lawmakers-arrested-outside-trump-tower-for-daca-protest) | /u/Vaiden_Kelsier
+[Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump](https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/?utm_term=.facb5ef0b56a) | /u/MayoIsSpicy
+[Pelosi calls DACA deal a first step toward comprehensive immigration reform](https://www.yahoo.com/news/pelosi-calls-daca-deal-first-step-toward-comprehensive-170638293.html) | /u/kattyTee
+[Three Democratic lawmakers arrested on disorderly conduct charges at DACA protest outside Trump Tower](http://abcnews.go.com/Politics/wireStory/members-congress-arrested-trump-tower-protest-49956812?cid=social_twitter_abcn) | /u/drz5555
+['My daughters are going to be OK.' Then Trump phased out DACA](http://www.latimes.com/local/california/la-me-daca-parents-20170919-story.html) | /u/oldbrokenrecord",1505361807.0,🤖 Bot,,https://www.reddit.com/r/politics/comments/6zzx44/megathread_president_trump_reportedly_reaches/,3,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_onl9u,False,,0,False,[],r/politics,False,6,,0,,,False,t3_6zzx44,False,dark,0.95,,public,3610,0,{},,,False,[],,False,False,,{},False,3610,,False,True,self,1506259075.0,,"[{'e': 'text', 't': '🤖 Bot'}]",{},self,,True,,text,6,,,richtext,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>Top House and Senate Democrats said Wednesday they had reached agreement with President Donald Trump on DACA and funding border security enhancements.</p>
+
+<hr/>
+
+<h2>Submissions that may interest you</h2>
+
+<table><thead>
+<tr>
+<th>TITLE</th>
+<th>SUBMITTED BY:</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href=""http://www.businessinsider.com/nancy-pelosi-chuck-schumer-daca-deal-immigration-border-wall-2017-9"">Trump just reached a deal with top Democrats to protect &#39;dreamers&#39;  and they say it doesn&#39;t include wall funding</a></td>
+<td><a href=""/u/seeasea"">/u/seeasea</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html?adkey=bn"">Schumer, Pelosi, Trump &#39;agree&#39; to fix DACA, border security &#39;excluding&#39; wall</a></td>
+<td><a href=""/u/TheDynamis"">/u/TheDynamis</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?action=Click&amp;contentCollection=BreakingNews&amp;contentID=65820661&amp;pgtype=article"">Pelosi and Schumer Say They Have Deal With Trump to Replace DACA</a></td>
+<td><a href=""/u/timalk"">/u/timalk</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.washingtonexaminer.com/schumer-pelosi-say-daca-deal-will-exclude-wall-after-dinner-with-trump/article/2634356"">Schumer, Pelosi say DACA deal will exclude wall after dinner with Trump</a></td>
+<td><a href=""/u/tedivm"">/u/tedivm</a></td>
+</tr>
+<tr>
+<td><a href=""http://nypost.com/2017/09/13/schumer-pelosi-reach-deal-with-trump-for-daca-protections/"">Schumer, Pelosi reach deal with Trump for DACA protections</a></td>
+<td><a href=""/u/BitsInTheBlood"">/u/BitsInTheBlood</a></td>
+</tr>
+<tr>
+<td><a href=""https://lasvegassun.com/news/2017/sep/14/schumer-pelosi-announce-deal-with-trump-to-protect/"">Schumer, Pelosi announce deal with Trump to protect young immigrants; will include border security, but no wall</a></td>
+<td><a href=""/u/witfenek"">/u/witfenek</a></td>
+</tr>
+<tr>
+<td><a href=""https://mobile.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage"">Pelosi and Schumer Say They Have Deal With Trump to Replace DACA</a></td>
+<td><a href=""/u/StupendousMan1995"">/u/StupendousMan1995</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/amphtml/politics/congress/the-latest-trump-top-democrats-agree-on-young-immigrants/2017/09/13/c66069de-98f0-11e7-af6a-6555caaeb8dc_story.html"">Trump, Top Democrats Agree on Young Immigrants</a></td>
+<td><a href=""/u/lasagnaman"">/u/lasagnaman</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.breitbart.com/big-government/2017/09/13/report-trump-caves-on-daca-wants-quick-amnesty-for-800k-illegal-aliens/amp/"">Report: Trump Caves on DACA, Wants &#39;Quick&#39; Amnesty for 800K Illegal Aliens - Breitbart</a></td>
+<td><a href=""/u/420nopescope69"">/u/420nopescope69</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?mcubz=0"">Pelosi and Schumer Say They Have Deal With Trump to Replace DACA</a></td>
+<td><a href=""/u/TimeMachineToaster"">/u/TimeMachineToaster</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.theguardian.com/us-news/2017/sep/14/senior-democrats-say-agreement-reached-with-trump-to-protect-young-immigrants?CMP=Share_AndroidApp_reddit_is_fun"">Senior Democrats say agreement reached with Trump to protect young immigrants</a></td>
+<td><a href=""/u/muddypaws"">/u/muddypaws</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.foxnews.com/politics/2017/09/13/schumer-pelosi-say-have-deal-with-trump-to-protect-dreamers.html"">Schumer, Pelosi say they have deal with Trump to protect &#39;Dreamers&#39;</a></td>
+<td><a href=""/u/siapanyana"">/u/siapanyana</a></td>
+</tr>
+<tr>
+<td><a href=""http://time.com/4940903/trump-daca-program-protections/"">Trump Has Reached a Compromise with Top Democrats on DACA</a></td>
+<td><a href=""/u/indifferentoyou"">/u/indifferentoyou</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.sfgate.com/news/amp/Schumer-Pelosi-announce-deal-with-Trump-to-12196211.php"">Schumer, Pelosi announce deal with Trump to protect young immigrants; will include border security, but no wall</a></td>
+<td><a href=""/u/mattjnwny"">/u/mattjnwny</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.wlbz2.com/news/nation-world/top-democrats-strike-deal-with-trump-to-protect-young-immigrants/474689945"">Top Democrats strike deal with Trump to protect young immigrants</a></td>
+<td><a href=""/u/Tastylicious"">/u/Tastylicious</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.reuters.com/article/us-usa-immigration-trump/trump-proposes-linking-immigration-cuts-to-protecting-dreamers-lawmaker-idUSKCN1BO2Y6?utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_content=59b9da6e04d3012f99421fbe&amp;utm_medium=trueAnthem&amp;utm_source=facebook"">Trump proposes linking immigration cuts to protecting &#39;Dreamers&#39;: lawmaker</a></td>
+<td><a href=""/u/Majnum"">/u/Majnum</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.bloomberg.com/news/articles/2017-09-14/ap-newsalert-schumer-pelosi-announce-deal-with-trump-to-protect-young-immigrants-will-include-border-security-but-no-wall"">Schumer, Pelosi Announce Agreement With Trump on DACA</a></td>
+<td><a href=""/u/Cato1789"">/u/Cato1789</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.cnbc.com/2017/09/13/trump-and-democrats-reach-a-daca-deal--without-the-border-wall.html"">Trump and Democrats reach a DACA deal  without the border wall</a></td>
+<td><a href=""/u/RikersTrombone"">/u/RikersTrombone</a></td>
+</tr>
+<tr>
+<td><a href=""https://apnews.com/5ac2b359ee2a48ce8c9b08d5c77ae253/Democrats-say-they-have-deal-with-Trump-on-young-immigrants"">Democrats say they have deal with Trump on young immigrants</a></td>
+<td><a href=""/u/Cranyx"">/u/Cranyx</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.theguardian.com/us-news/2017/sep/14/senior-democrats-say-agreement-reached-with-trump-to-protect-young-immigrants"">Senior Democrats say agreement reached with Trump to protect young immigrants</a></td>
+<td><a href=""/u/guarruda"">/u/guarruda</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.yahoo.com/news/latest-trump-top-democrats-agree-young-immigrants-015848937--politics.html"">The Latest: Trump, top Democrats agree on young immigrants</a></td>
+<td><a href=""/u/seeasea"">/u/seeasea</a></td>
+</tr>
+<tr>
+<td><a href=""http://abcnews.go.com/Politics/democrats-claim-deal-trump-young-undocumented-immigrants/story?id=49837488"">Democrats claim to near deal with Trump on young, undocumented immigrants</a></td>
+<td><a href=""/u/santetnurickr"">/u/santetnurickr</a></td>
+</tr>
+<tr>
+<td><a href=""https://apnews.com/5ac2b359ee2a48ce8c9b08d5c77ae253"">Democrats say they have deal with Trump on young immigrants</a></td>
+<td><a href=""/u/creme_oner"">/u/creme_oner</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/"">Trump, top Democrats agree to work on deal to save dreamers from deportation</a></td>
+<td><a href=""/u/Bellarz416"">/u/Bellarz416</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/politics/congress/trump-urges-bipartisan-fix-for-young-immigrants/2017/09/13/1b87085e-98e8-11e7-af6a-6555caaeb8dc_story.html?utm_term=.ef63a909cb97"">Democrats say they have deal with Trump on young immigrants</a></td>
+<td><a href=""/u/guarruda"">/u/guarruda</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/?pushid=59b9e5e5d4ac501c00000033&amp;tid=notifi_push_breaking-news&amp;utm_term=.650921f2a899"">Trump, top Democrats agree to work on deal to save DACA</a></td>
+<td><a href=""/u/slakmehl"">/u/slakmehl</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/politics/congress/schumer-pelosi-announce-deal-with-trump-to-protect-young-immigrants-will-include-border-security-but-no-wall/2017/09/13/514c7b5c-98ef-11e7-af6a-6555caaeb8dc_story.html"">Schumer, Pelosi announce deal with Trump to protect young immigrants; will include border security, but no wall</a></td>
+<td><a href=""/u/FadeToDankness"">/u/FadeToDankness</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.eastbaytimes.com/2017/09/13/democrats-say-they-have-deal-with-trump-on-daca-immigrants/"">Democrats say they have deal with Trump on DACA immigrants</a></td>
+<td><a href=""/u/maxcrazy"">/u/maxcrazy</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.buzzfeed.com/mattberman/nancy-pelosi-and-chuck-schumer-say-trump-has-agreed-to-a?utm_term=.pvEdQ8MrLB#.pvEdQ8MrLB"">Nancy Pelosi And Chuck Schumer Say Trump Agreed On A Deal To Protect DREAMers</a></td>
+<td><a href=""/u/Caliliberal"">/u/Caliliberal</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.axios.com/schumer-pelosi-say-trump-agreed-to-replace-daca-without-wall-2485002954.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=organic"">Schumer, Pelosi say Trump agreed to replace DACA without wall</a></td>
+<td><a href=""/u/Antinatalista"">/u/Antinatalista</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/administration/350596-trump-holds-working-dinner-with-schumer-pelosi"">Trump, Dem leaders reach agreement on young immigrants</a></td>
+<td><a href=""/u/BravoMikeFoxtrot"">/u/BravoMikeFoxtrot</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/?utm_term=.780d5456ed5b"">Trump, Top Democrats Agree to Work on Deal to Save DACA</a></td>
+<td><a href=""/u/ianhiggs"">/u/ianhiggs</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.yahoo.com/news/latest-trump-top-democrats-agree-young-immigrants-015848937--politics.html?soc_trk=gcm&amp;soc_src=5b2061e4-87d9-11e5-93d4-fa163e6f4a7e&amp;.tsrc=notification-brknews"">The Latest: Trump, top Democrats agree on young immigrants</a></td>
+<td><a href=""/u/ItsJustMeAgainHarper"">/u/ItsJustMeAgainHarper</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html"">Schumer, Pelosi, Trump &#39;agree&#39; to fix DACA, border security &#39;excluding&#39; wall</a></td>
+<td><a href=""/u/catestone"">/u/catestone</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/13/trump-top-democrats-agree-to-work-on-deal-to-save-daca/?hpid=hp_hp-top-table-main_daca1013pm%3Ahomepage%2Fstory&amp;utm_term=.4fc6aacc7955"">Trump, top Democrats agree to work on deal to save dreamers from deportation</a></td>
+<td><a href=""/u/WompaStompa_"">/u/WompaStompa_</a></td>
+</tr>
+<tr>
+<td><a href=""http://time.com/4940903/trump-daca-program-protections/?utm_campaign=time&amp;utm_source=twitter.com&amp;utm_medium=social&amp;xid=time_socialflow_twitter"">Trump Has Reached a Compromise with Top Democrats on DACA</a></td>
+<td><a href=""/u/Jump_Yossarian"">/u/Jump_Yossarian</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.cnbc.com/amp/2017/09/13/trump-and-democrats-reach-a-daca-deal--without-the-border-wall.html"">Trump and Democrats reach a DACA deal  without the border wall</a></td>
+<td><a href=""/u/r_lopez"">/u/r_lopez</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.democraticleader.gov/newsroom/91317-5/"">Pelosi and Schumer Joint Statement on Dinner with President Trump</a></td>
+<td><a href=""/u/LineNoise"">/u/LineNoise</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.chicagotribune.com/news/nationworld/politics/ct-trump-democrats-immigration-deal-20170913-story.html"">Schumer, Pelosi announce deal with Trump to save Dreamers from deportation</a></td>
+<td><a href=""/u/Theobidis"">/u/Theobidis</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.buzzfeed.com/mattberman/nancy-pelosi-and-chuck-schumer-say-trump-has-agreed-to-a?utm_term=.rlyaN378G#.hb6QvLz6y"">Nancy Pelosi And Chuck Schumer Say Trump Agreed On A Deal To Protect DREAMers</a></td>
+<td><a href=""/u/thesteveway"">/u/thesteveway</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.journalgazette.net/news/politics/20170913/democrats-trump-reach-deal-on-young-immigrants"">Democrats, Trump reach deal on young immigrants</a></td>
+<td><a href=""/u/awaiscc"">/u/awaiscc</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?rref=collection%2Fsectioncollection%2Fpolitics"">Pelosi and Schumer Say They Have Deal With Trump to Replace DACA</a></td>
+<td><a href=""/u/WonderPug2"">/u/WonderPug2</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.breitbart.com/big-government/2017/09/13/report-trump-caves-on-daca-wants-quick-amnesty-for-800k-illegal-aliens/"">Report: Trump Caves on DACA, Wants &#39;Quick&#39; Amnesty for 800K Illegal Aliens</a></td>
+<td><a href=""/u/Eurynom0s"">/u/Eurynom0s</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.cleveland.com/nation/index.ssf/2017/09/trump_congressional_democrats.html"">Trump, congressional Democrats reach deal on &#39;dreamers,&#39; border security -- but no wall</a></td>
+<td><a href=""/u/cdtoad"">/u/cdtoad</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nbcnews.com/politics/politics-news/trump-democratic-leaders-closer-deal-make-daca-protections-law-n801196"">Schumer, Pelosi tout a DACA deal with Trump, but White House says not quite</a></td>
+<td><a href=""/u/spsheridan"">/u/spsheridan</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.bbc.co.uk/news/world-us-canada-41262809"">BBC News: Trump and Democrats &#39;reach deal&#39; over Daca Dreamers</a></td>
+<td><a href=""/u/JoeinJapan"">/u/JoeinJapan</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.bbc.com/news/world-us-canada-41262809"">Trump and Democrats &#39;reach deal&#39; over Daca Dreamers</a></td>
+<td><a href=""/u/Hongking00"">/u/Hongking00</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.bloomberg.com/news/articles/2017-09-13/trump-wants-congress-vote-on-dreamer-migrants-democrat-says"">Democrats Say They Have Tentative Dreamers Deal With Trump</a></td>
+<td><a href=""/u/MDCCCLV"">/u/MDCCCLV</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.vox.com/2017/9/13/16305690/top-democrats-announced-daca-deal-trump"">Top Democrats just announced they struck a deal with Trump to protect DACA</a></td>
+<td><a href=""/u/chemnerd6021023"">/u/chemnerd6021023</a></td>
+</tr>
+<tr>
+<td><a href=""http://edition.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html"">Schumer, Pelosi, Trump &#39;agree&#39; to fix DACA, disagree on the details</a></td>
+<td><a href=""/u/Hadiamalik"">/u/Hadiamalik</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/09/13/us/politics/trump-dinner-schumer-pelosi-daca-obamacare.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=first-column-region&amp;region=top-news&amp;WT.nav=top-news"">Pelosi and Schumer Say They Have Deal With Trump to Replace DACA</a></td>
+<td><a href=""/u/mori226"">/u/mori226</a></td>
+</tr>
+<tr>
+<td><a href=""http://edition.cnn.com/2017/09/13/politics/chuck-schumer-nancy-pelosi-donald-trump/index.html?sr=twCNNp091317chuck-schumer-nancy-pelosi-donald-trump1026PMStory&amp;CNNPolitics=Tw"">Schumer, Pelosi, Trump &#39;agree&#39; to fix DACA, disagree on the details</a></td>
+<td><a href=""/u/Millsjack"">/u/Millsjack</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/tipsheets/huddle/2017/09/14/dems-announce-daca-deal-from-twitter-trump-pushes-back-gop-forms-dreamer-working-group-gun-silencer-bill-moves-forward-222276"">DEMS ANNOUNCE DACA DEAL  Trump pushes back: &#39;No deal&#39;  GOP FORMS DREAMER WORKING GROUP  Gun silencer bill moves forward</a></td>
+<td><a href=""/u/JudyAltaf"">/u/JudyAltaf</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/administration/350617-trump-fairly-close-to-daca-deal"">Trump: &#39;Fairly close&#39; to DACA deal</a></td>
+<td><a href=""/u/johnsnow2017"">/u/johnsnow2017</a></td>
+</tr>
+<tr>
+<td><a href=""http://talkingpointsmemo.com/livewire/breitbart-trump-base-amnesty-don-rallying-cry-daca-decision?utm_content=buffereb132&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer"">Breitbart Gives Trump Base Amnesty Don Rallying Cry Against DACA</a></td>
+<td><a href=""/u/saucytryhard"">/u/saucytryhard</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.independent.co.uk/news/world/americas/us-politics/trump-daca-wall-democrats-deal-immigration-dreamers-schumer-pelosi-tweets-white-house-a7946861.html"">Trump confirms he is working on Democrat DACA deal without wall funding despite White House denying it</a></td>
+<td><a href=""/u/PikachuSquarepants"">/u/PikachuSquarepants</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/story/2017/09/14/lindsey-graham-trump-obamacare-repeal-242710"">Graham to Trump: Focus on Obamacare repeal, not DACA</a></td>
+<td><a href=""/u/JudyAltaf"">/u/JudyAltaf</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/administration/350613-dems-trumps-tweets-not-inconsistent-with-daca-agreement"">Dems: Trump&#39;s tweets &#39;not inconsistent&#39; with DACA agreement</a></td>
+<td><a href=""/u/Xatencio00"">/u/Xatencio00</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.salon.com/2017/09/14/trumps-daca-deal-with-democrats-is-political-suicide-conservatives-say/"">Trumps DACA deal with Democrats is political suicide, conservatives say</a></td>
+<td><a href=""/u/MabelBaird"">/u/MabelBaird</a></td>
+</tr>
+<tr>
+<td><a href=""http://nymag.com/daily/intelligencer/2017/09/breitbart-news-dubs-trump-amnesty-don.html"">Breitbart News Dubs Trump Amnesty Don After Late-Night DACA Deal</a></td>
+<td><a href=""/u/AldoTheeApache"">/u/AldoTheeApache</a></td>
+</tr>
+<tr>
+<td><a href=""http://abcnews.go.com/Politics/analysis-trumps-daca-dealings-throw-republicans-democrats-loop/story?id=49845889"">ANALYSIS: Trump&#39;s DACA dealings throw Republicans and Democrats for a loop</a></td>
+<td><a href=""/u/lawblogz"">/u/lawblogz</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/story/2017/09/14/trump-daca-deal-democrats-conservatives-react-242709"">Trump die-hards divided over DACA deal</a></td>
+<td><a href=""/u/Nicole0021"">/u/Nicole0021</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/350611-longtime-trump-supporter-trump-just-screwed-his-base-with-daca-deal-with-dems"">Longtime Trump supporter: Trump just screwed his base with DACA deal with Dems</a></td>
+<td><a href=""/u/Bobalubolobacue"">/u/Bobalubolobacue</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.huffingtonpost.com/entry/trump-border-wall-daca_us_59ba570ee4b0edff971983ee?section=us_politics"">Donald Trump Denies DACA Deal, But Doesnt Dispute Its Key Points</a></td>
+<td><a href=""/u/Hannah0021"">/u/Hannah0021</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nbcnews.com/politics/donald-trump/trump-says-no-deal-was-reached-democrats-extend-daca-n801236"">Trump Says No Deal Was Reached With Democrats to Extend DACA</a></td>
+<td><a href=""/u/guarruda"">/u/guarruda</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?hpid=hp_hp-top-table-main_dacahill-1125a%3Ahomepage%2Fstory&amp;utm_term=.aa84410265b3"">BREAKING NEWS GOPs Ryan dismisses potential DACA deal between Trump and Democrats</a></td>
+<td><a href=""/u/EggsAckley"">/u/EggsAckley</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?hpid=hp_hp-top-table-main_dacahill-1125a:homepage/story&amp;utm_term=.3393e24100d8&amp;wpisrc=al_alert-politics&amp;wpmk=1"">Ryan dismisses potential DACA deal between Trump and Democrats</a></td>
+<td><a href=""/u/pipsdontsqueak"">/u/pipsdontsqueak</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.businessinsider.com/trump-daca-deal-democrats-conservative-right-wing-reaction-chuck-schumer-nancy-pelosi-2017-9"">Conservatives are ripping Trump over news of a bipartisan DACA deal</a></td>
+<td><a href=""/u/MrGreyMan"">/u/MrGreyMan</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?hpid=hp_hp-top-table-main_dacahill-1125a%3Ahomepage%2Fstory"">Ryan dismisses potential DACA deal between Trump and Democrats</a></td>
+<td><a href=""/u/boidey"">/u/boidey</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/09/14/us/politics/conservatives-trump-democrats-daca.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=first-column-region&amp;region=top-news&amp;WT.nav=top-news"">Conservatives Recoil at Trumps Accommodation With Democrats Over DACA</a></td>
+<td><a href=""/u/teknub"">/u/teknub</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.cbsnews.com/news/conservatives-lash-out-at-trump-after-alleged-daca-deal/"">Conservatives lash out at Trump after alleged DACA agreement with Pelosi, Schumer</a></td>
+<td><a href=""/u/Stoga"">/u/Stoga</a></td>
+</tr>
+<tr>
+<td><a href=""https://lawnewz.com/high-profile/why-trumps-daca-deal-will-lead-to-his-impeachment/"">Why Trumps DACA Deal Will Lead to His Impeachment</a></td>
+<td><a href=""/u/Bobalubolobacue"">/u/Bobalubolobacue</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.breitbart.com/big-government/2017/09/14/donald-trump-the-wall-will-come-later-after-daca-amnesty-deal/"">Donald Trump: The Wall Will Come Later After DACA Amnesty Deal</a></td>
+<td><a href=""/u/pacman_sl"">/u/pacman_sl</a></td>
+</tr>
+<tr>
+<td><a href=""http://edition.cnn.com/2017/09/14/politics/jimmy-carter-trump-daca/index.html"">Jimmy Carter defends Trump on DACA actions</a></td>
+<td><a href=""/u/condorbox"">/u/condorbox</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.theatlantic.com/politics/archive/2017/09/democrats-dare-to-trust-trump-on-daca/539874/"">Democrats Dare to Trust Trump on DACA</a></td>
+<td><a href=""/u/MarieD_Boris"">/u/MarieD_Boris</a></td>
+</tr>
+<tr>
+<td><a href=""http://insider.foxnews.com/2017/09/14/trump-meets-democrats-schumer-pelosi-discuss-immigration-daca-dreamers"">Chris Wallace: Trump&#39;s DACA Talks With Dems Are &#39;As Clear as Mud&#39;</a></td>
+<td><a href=""/u/Etanla"">/u/Etanla</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/09/14/us/politics/conservatives-trump-democrats-daca.html"">Conservatives Recoil at Trumps Accommodation With Democrats Over DACA</a></td>
+<td><a href=""/u/CulterDei"">/u/CulterDei</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/powerpost/trumps-dealing-on-daca-sparks-confusion-shifting-alliances-on-capitol-hill/2017/09/14/c9b2c904-994c-11e7-82e4-f1076f6d6152_story.html?utm_term=.db69e57bb876"">As Trump talks DACA deal with Democrats, GOP leaders try to reassert control</a></td>
+<td><a href=""/u/The_Lord_Humungus"">/u/The_Lord_Humungus</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.cnbc.com/2017/09/14/paul-ryan-there-is-no-agreement-between-trump-and-democrats-on-daca.html"">Paul Ryan: No agreement between Trump and Dems on DACA</a></td>
+<td><a href=""/u/Callofapple123"">/u/Callofapple123</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.breitbart.com/big-government/2017/09/14/9-lies-about-daca-trump-is-buying-into/"">9 Lies About DACA Trump Is Buying Into</a></td>
+<td><a href=""/u/Etanla"">/u/Etanla</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/politics/trump-and-democrats-strike-daca-deal-yes-no-sort-of-trumps-world-can-be-confusing/2017/09/14/ab6a40d4-9970-11e7-82e4-f1076f6d6152_story.html"">Trump and Democrats strike DACA deal. Yes? No? Sort of? Trump&#39;s world can be confusing.</a></td>
+<td><a href=""/u/eman00619"">/u/eman00619</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/politics/trump-and-democrats-strike-daca-deal-yes-no-sort-of-trumps-world-can-be-confusing/2017/09/14/ab6a40d4-9970-11e7-82e4-f1076f6d6152_story.html?utm_term=.bd3e190e3e1d"">Trump and Democrats strike DACA deal. Yes? No? Sort of? Trump&#39;s world can be confusing.</a></td>
+<td><a href=""/u/bikinbarulagi"">/u/bikinbarulagi</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.thedailybeast.com/donald-trump-basks-in-the-glow-from-his-dem-daca-deal"">Donald Trump Basks in the Glow From His Dem-DACA-Deal</a></td>
+<td><a href=""/u/ceaguila84"">/u/ceaguila84</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.npr.org/2017/09/14/551053707/conservatives-fume-over-daca-deal-as-trump-tries-to-mollify-his-base"">Conservatives Fume Over DACA Deal As Trump Tries To Mollify His Base</a></td>
+<td><a href=""/u/xumun"">/u/xumun</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.yahoo.com/news/trump-sees-compromise-extending-daca-wall-will-come-later-2-141519875.html"">Trump sees compromise on extending DACA; &#39;the wall will come later&#39;</a></td>
+<td><a href=""/u/exxocetN"">/u/exxocetN</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/09/15/daily-202-trump-s-daca-deal-is-another-humiliation-for-jeff-sessions/59bb011f30fb045176650cd1/"">The Daily 202: Trump&#39;s DACA &#39;deal&#39; is another humiliation for Jeff Sessions</a></td>
+<td><a href=""/u/WonderPug2"">/u/WonderPug2</a></td>
+</tr>
+<tr>
+<td><a href=""https://news.vice.com/story/republicans-are-fuming-over-trumps-daca-deal-with-chuck-and-nancy"">Republicans are fuming over Trumps DACA deal with Chuck and Nancy</a></td>
+<td><a href=""/u/Antinatalista"">/u/Antinatalista</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.newyorker.com/news/john-cassidy/how-many-supporters-do-trumps-conservative-critics-on-daca-have?mbid=social_twitter"">How Many Supporters Do Trumps Conservative Critics on DACA Have?</a></td>
+<td><a href=""/u/Antinatalista"">/u/Antinatalista</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.bbc.com/news/world-us-canada-41279520"">Trump&#39;s &#39;Make America Great Again&#39; hats burned over Daca deal</a></td>
+<td><a href=""/u/NSA_Monitoring"">/u/NSA_Monitoring</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.usnews.com/news/national-news/articles/2017-09-15/trump-backers-burn-make-america-great-again-hats-in-protest-of-daca-talks"">Trump Backers Burn MAGA Hats in DACA Protest</a></td>
+<td><a href=""/u/guarruda"">/u/guarruda</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.businessinsider.com/white-house-daca-trump-amnesty-2017-9"">The Trump administration is twisting itself into knots to try and explain why a DACA deal wouldn&#39;t be &#39;amnesty&#39;</a></td>
+<td><a href=""/u/imagepoem"">/u/imagepoem</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.theguardian.com/us-news/2017/sep/15/tracking-trump-clinton-memoir-daca-democrats-deal"">Tracking Trump: Clinton warns of dystopia and Trump pivots on Daca</a></td>
+<td><a href=""/u/BessieAAndrew"">/u/BessieAAndrew</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/blogs/blog-briefing-room/351000-steve-king-i-wont-leave-trump-over-daca"">Steve King: I wont leave Trump over DACA</a></td>
+<td><a href=""/u/unholyprawn"">/u/unholyprawn</a></td>
+</tr>
+<tr>
+<td><a href=""http://abcnews.go.com/Politics/note-trumps-surrealist-art-deal-daca/story?id=49868489"">The Note: Trump&#39;s surrealist art of the deal on DACA</a></td>
+<td><a href=""/u/verify786"">/u/verify786</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/sunday-talk-shows/351067-cotton-trump-called-me-to-say-there-is-no-deal-on-daca"">Cotton: Trump called me to say there is no deal on DACA</a></td>
+<td><a href=""/u/unholyprawn"">/u/unholyprawn</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-california-state-assembly-approves-1505346476-htmlstory.html"">California Assembly approves resolution denouncing Trump&#39;s decision on DACA</a></td>
+<td><a href=""/u/MultiKdizzle"">/u/MultiKdizzle</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.reuters.com/article/us-usa-immigration-lawsuit/six-dreamers-sue-trump-administration-over-daca-decision-idUSKCN1BT14F?il=0"">Six Dreamers sue Trump administration over DACA decision</a></td>
+<td><a href=""/u/TragicDonut"">/u/TragicDonut</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/administration/351141-dreamers-sue-trump-for-ending-daca"">Dreamers sue Trump for ending DACA</a></td>
+<td><a href=""/u/wil_daven_"">/u/wil_daven_</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/blogs/under-the-radar/2017/09/18/daca-lawsuit-trump-242838"">DACA recipients file suit over Trump&#39;s move to end program</a></td>
+<td><a href=""/u/samdecsec"">/u/samdecsec</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.reuters.com/article/us-usa-immigration-lawsuit/six-dreamers-sue-trump-administration-over-daca-decision-idUSKCN1BT14F"">Six Dreamers sue Trump administration over DACA decision</a></td>
+<td><a href=""/u/Stoga"">/u/Stoga</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.bloomberg.com/news/articles/2017-09-18/pelosi-shouted-down-by-immigrants-over-daca-deal-with-trump"">Pelosi Shouted Down by Activists Over DACA Deal With Trump</a></td>
+<td><a href=""/u/sfgiantsfan650"">/u/sfgiantsfan650</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.sfgate.com/news/article/Protesters-shut-down-Pelosi-news-conference-on-12206788.php?cmpid=reddit-desktop"">Protesters shut down Pelosi news conference on DACA, chanting, All of us or none of us</a></td>
+<td><a href=""/u/RileyWWarrick"">/u/RileyWWarrick</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-nancy-pelosi-shouted-down-at-daca-press-1505760392-htmlstory.html"">Nancy Pelosi shouted down at DACA news conference for working with Trump</a></td>
+<td><a href=""/u/Madstork1981"">/u/Madstork1981</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/homenews/administration/351219-naacp-sues-trump-for-ending-daca"">NAACP sues Trump for ending DACA</a></td>
+<td><a href=""/u/samdecsec"">/u/samdecsec</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.breitbart.com/california/2017/09/18/illegal-aliens-crash-nancy-pelosis-daca-press-conference/"">Illegal Aliens Crash Nancy Pelosi&#39;s DACA Press Conference: &#39;All of Us or None of Us!&#39; Fight 4 All 11 Million, And there it is they want all illegals to be allowed to stay.</a></td>
+<td><a href=""/u/BimboDickins"">/u/BimboDickins</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politifact.com/truth-o-meter/statements/2017/sep/18/donald-trump/president-donald-trumps-half-true-claim-support-da/"">President Donald Trump&#39;s Half True claim that support for DACA is as high as &#39;92 percent&#39;</a></td>
+<td><a href=""/u/PikachuSquarepants"">/u/PikachuSquarepants</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.npr.org/2017/09/18/551778427/trump-s-daca-moves-aren-t-shaking-his-most-loyal-supporters?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=npr&amp;utm_term=nprnews&amp;utm_content=20170918"">Trump&#39;s DACA Moves Aren&#39;t Shaking His Most Loyal Supporters</a></td>
+<td><a href=""/u/Ummland"">/u/Ummland</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/?utm_term=.6c7ce56f9ad3"">Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump</a></td>
+<td><a href=""/u/porterpamela62"">/u/porterpamela62</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/?utm_term=.5449ad4f63cc"">Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump</a></td>
+<td><a href=""/u/colonel_j"">/u/colonel_j</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.sfgate.com/news/article/Protesters-shut-down-Pelosi-news-conference-on-12206788.php"">Protesters shut down Pelosi news conference on DACA: All of us or none of us</a></td>
+<td><a href=""/u/Swiggy"">/u/Swiggy</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/"">Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump</a></td>
+<td><a href=""/u/spartan2600"">/u/spartan2600</a></td>
+</tr>
+<tr>
+<td><a href=""http://insider.foxnews.com/2017/09/18/daca-supporters-shout-down-nancy-pelosi-press-conference-over-trump-support"">&#39;You Don&#39;t Have a Right to Demand Anything&#39;: Tucker Blasts DACA Activists Shouting Down Pelosi</a></td>
+<td><a href=""/u/Etanla"">/u/Etanla</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.baltimoresun.com/news/nation-world/ct-daca-pelosi-protest-20170918-story.html"">DACA recipients protest Pelosi&#39;s deal with Trump: &#39;We are not a bargaining chip&#39;</a></td>
+<td><a href=""/u/RedditRegerts"">/u/RedditRegerts</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/tipsheets/california-playbook/2017/09/19/pelosi-targeted-by-protesters-on-daca-new-poll-more-than-half-californians-considering-a-move-jerry-brown-on-gop-cave-dwellers-222344"">PELOSI targeted by protesters on DACA -- NEW POLL: Majority of Californians considering a move? -- BROWN on GOP &#39;cave dwellers&#39; -- DELTA TUNNELS battle</a></td>
+<td><a href=""/u/JudyAltaf"">/u/JudyAltaf</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/story/2017/09/18/nancy-pelosi-daca-protest-242850"">Pro-DACA protesters call Pelosi a &#39;liar&#39;</a></td>
+<td><a href=""/u/Thisiswhy_Trump_Won"">/u/Thisiswhy_Trump_Won</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.rollingstone.com/politics/features/everyone-is-confused-about-what-trump-is-doing-with-daca-w503137"">Everyone Is Confused About What Trump Is Doing With DACA</a></td>
+<td><a href=""/u/tapoutmb"">/u/tapoutmb</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/latino/351365-democratic-lawmakers-arrested-outside-trump-tower-for-daca-protest"">Congressmen arrested outside Trump Tower for participating in a DACA protest</a></td>
+<td><a href=""/u/Vaiden_Kelsier"">/u/Vaiden_Kelsier</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/powerpost/wp/2017/09/18/nancy-pelosi-confronted-by-daca-recipients-protesting-her-agreement-with-trump/?utm_term=.facb5ef0b56a"">Nancy Pelosi confronted by immigration rights protesters about her DACA talks with Trump</a></td>
+<td><a href=""/u/MayoIsSpicy"">/u/MayoIsSpicy</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.yahoo.com/news/pelosi-calls-daca-deal-first-step-toward-comprehensive-170638293.html"">Pelosi calls DACA deal a first step toward comprehensive immigration reform</a></td>
+<td><a href=""/u/kattyTee"">/u/kattyTee</a></td>
+</tr>
+<tr>
+<td><a href=""http://abcnews.go.com/Politics/wireStory/members-congress-arrested-trump-tower-protest-49956812?cid=social_twitter_abcn"">Three Democratic lawmakers arrested on disorderly conduct charges at DACA protest outside Trump Tower</a></td>
+<td><a href=""/u/drz5555"">/u/drz5555</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.latimes.com/local/california/la-me-daca-parents-20170919-story.html"">&#39;My daughters are going to be OK.&#39; Then Trump phased out DACA</a></td>
+<td><a href=""/u/oldbrokenrecord"">/u/oldbrokenrecord</a></td>
+</tr>
+</tbody></table>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?auto=webp&s=87f801473cba393f8cf67220d5437213f58746ec', 'width': 1190, 'height': 595}, 'resolutions': [{'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?width=108&crop=smart&auto=webp&s=628155bdc7be679878400853892e89d6ecd3a59a', 'width': 108, 'height': 54}, {'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?width=216&crop=smart&auto=webp&s=7ecb789c2154962ac7d23d368eb5c3447cf2c62e', 'width': 216, 'height': 108}, {'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?width=320&crop=smart&auto=webp&s=05d747a13b4e89222f3c6e908b5d20b60389a652', 'width': 320, 'height': 160}, {'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?width=640&crop=smart&auto=webp&s=10acc3d48aeb983296a8982b70730494b51826d4', 'width': 640, 'height': 320}, {'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?width=960&crop=smart&auto=webp&s=68dcc431506b9cbe5dce2f7c06e52389d963c2db', 'width': 960, 'height': 480}, {'url': 'https://external-preview.redd.it/RJgjlPTI5I9kNwRNW6Ovx4ubZDeXuQyRRf6jOZjF7FM.jpg?width=1080&crop=smart&auto=webp&s=ddaabba081613c6ee02e7f0fe23ad8d73871b819', 'width': 1080, 'height': 540}], 'variants': {}, 'id': 'hYEDGxaOnuobGZ6lobf6_gEUXEJOUc4bBuEcO-HttQc'}], 'enabled': False}",[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,2231,False,all_ads,False,[],False,dark,/r/politics/comments/6zzx44/megathread_president_trump_reportedly_reaches/,all_ads,False,7905707,1505361807.0,0,,False,False,{},
+4,5nlegh,PoliticsModeratorBot,Megathread: Department of Justice to investigate actions by Comey and FBI,"The Justice Department Inspector General will review how the FBI and Justice Department handled certain aspects of the Hillary Clinton email investigation.
+
+
+
+---
+
+##Submissions that may interest you
+
+TITLE | SUBMITTED BY:
+---|----
+[US watchdog to probe FBI Clinton email actions.](http://www.bbc.co.uk/news/world-us-canada-38603294) | /u/Man-alive
+[DOJ Watchdog To Review FBI Director James Comeys Handling Of Clinton Investigation](http://www.huffingtonpost.com/entry/fbi-clinton-comey-inspector-general_us_5877c33ae4b0c42cb1757919) | /u/ScholarOfTwilight
+[DOJ watchdog to investigate FBIs handling of Hillary email probe](http://nypost.com/2017/01/12/doj-watchdog-to-investigate-fbis-handling-of-hillary-email-probe/) | /u/africandove
+[FBI and DOJ probed over election](http://www.bbc.com/news/world-us-canada-38603294) | /u/zambal
+[Justice Department to Investigate Comey's Handling of Clinton Email Probe](http://www.independent.co.uk/news/world/americas/justice-department-investigate-fbi-comey-handling-hillary-clinton-email-probe-a7524751.html) | /u/mic_harmony
+[DOJ watchdog launches probe into handling of Clinton email investigation](http://edition.cnn.com/2017/01/12/politics/doj-watchdog-launches-probe-into-handling-of-clinton-email-investigation/index.html) | /u/outbackqueen
+[Watchdog to investigate Justice, FBI actions before election](http://www.palmbeachpost.com/news/national/watchdog-investigate-justice-fbi-actions-before-election/UMCXWtSKECJyKRrFuZ193I/) | /u/gazil9
+[Justice Department watchdog says it will investigate FBI director's decision to speak about Clinton investigation](http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-justice-department-watchdog-says-it-1484245535-htmlstory.html) | /u/Urban-Nomad
+[Inspector General Will Investigate Justice Department and FBIs Actions Leading Up to 2016 Election](http://time.com/4633278/justice-department-fbi-election-investigation/?xid=time_socialflow_twitter) | /u/juliarobart
+[Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry](https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html) | /u/NarcolepticMan
+[Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry](https://mobile.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html?referer=) | /u/Alejandro_Last_Name
+[DOJ watchdog investigating FBI decisions in Clinton email probe](http://www.reuters.com/article/us-usa-election-clinton-idUSKBN14W2NT) | /u/Public_Fucking_Media
+[Justice Watchdog Opens Probe of Comey, FBI Election Actions](https://www.bloomberg.com/politics/articles/2017-01-12/justice-department-inspector-opens-probe-of-fbi-election-actions) | /u/lingben
+[Justice Department Inspector General to investigate pre-election actions by department and FBI](https://www.washingtonpost.com/news/post-nation/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/?utm_term=.adeac72b46a1) | /u/VolMarek
+[DOJ Inspector General To Probe FBI, DOJ Officials' Actions In Run-Up To Election](http://talkingpointsmemo.com/livewire/justice-department-inspector-general-investigation) | /u/fairfield
+[Justice Dept Auditor to Open Probe of FBI Actions in Campaign](https://www.bloomberg.com/news/articles/2017-01-12/justice-dept-auditor-to-open-probe-of-fbi-actions-in-campaign-ixuory4e?cmpid=socialflow-twitter-business&utm_content=politics&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-politics) | /u/piede
+[DOJ watchdog launches probe into handling of Clinton email investigation](http://www.cnn.com/2017/01/12/politics/doj-watchdog-launches-probe-into-handling-of-clinton-email-investigation/index.html?adkey=bn) | /u/OnceHadSexAMA
+[DOJ watchdog investigating FBI decisions in Clinton email probe](http://mobile.reuters.com/article/idUSKBN14W2NT) | /u/The_Onyx_Hammer
+[Justice Department watchdog opens review of Comey's Clinton email investigation](http://www.politico.com/story/2017/01/justice-department-watchdog-opens-review-of-clinton-email-investigation-233549) | /u/JackieWayne
+[Justice Department inspector general to investigate pre-election actions by department and FBI](https://www.washingtonpost.com/world/national-security/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/2017/01/12/ec914c8c-d8f1-11e6-9a36-1d296534b31e_story.html) | /u/Midmotion
+[Justice Department inspector general to investigate pre-election conduct by FBI](http://thehill.com/policy/national-security/314002-justice-department-inspector-general-to-investigate-pre-election) | /u/delta_14
+[DOJ Inspector General to Probe FBI Actions Ahead of Election](http://www.nbcwashington.com/news/politics/DOJ-Inspector-General-to-Probe-FBI-Actions-Ahead-of-Election--410542475.html) | /u/Edw4rdTeach
+[Justice Department inspector general to investigate pre-election actions by department and FBI](https://www.washingtonpost.com/news/post-politics/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/?utm_term=.7f2bf83307d2) | /u/Weir_Everywhere
+[DOJ Watchdog To Review Pre-Election Conduct Of FBI, Other Justice Officials](http://www.npr.org/sections/thetwo-way/2017/01/12/509520381/doj-watchdog-to-review-conduct-of-fbi-other-justice-officials-ahead-of-election?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20170112) | /u/the_bigZ
+[US watchdog to probe FBI Clinton email actions - BBC News](http://www.bbc.com/news/world-us-canada-38603294?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central) | /u/eye_josh
+[Justice department to review FBI's conduct in Clinton email inquiry](https://www.theguardian.com/us-news/2017/jan/12/justice-department-fbi-review-james-comey-hillary-clinton-emails) | /u/KitAndKat
+[DOJ Inspector General launches probe into FBI actions ahead of election](http://www.msnbc.com/craig-melvin/watch/fbi-probe-launched-into-fbi-actions-ahead-of-election-853474883631) | /u/mspk7305
+[There will be an investigation of James Comeys conduct. We might get some accountability, after all.](https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/12/there-will-be-an-investigation-of-james-comeys-conduct-we-might-get-some-accountability-after-all/?utm_term=.477e14a0f18d) | /u/Brad_tilf
+[DoJ and FBI officials face US election probe](https://www.ft.com/content/f7dff042-d8fc-11e6-944b-e7eb37a6aa8e) | /u/Zerowantuthri
+[Clinton Emails: DOJ Inspector General to Review FBI, Comey Actions.](http://www.nbcnews.com/news/us-news/clinton-emails-doj-inspector-general-investigate-fbi-comey-actions-n706186) | /u/dannylandulf
+[DOJ Watchdog To Review Pre-Election Conduct Of FBI, Other Justice Officials](http://www.npr.org/sections/thetwo-way/2017/01/12/509520381/doj-watchdog-to-review-conduct-of-fbi-other-justice-officials-ahead-of-election) | /u/somatic-
+[FBI, Justice Department to be investigated over Clinton probe](http://www.cnn.com/2017/01/12/politics/doj-watchdog-launches-probe-into-handling-of-clinton-email-investigation/) | /u/Bigpiganddig
+[Justice Department inspector general to investigate pre-election actions by department and FBI](https://www.washingtonpost.com/news/post-nation/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/) | /u/eye_josh
+[Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry](http://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html?smid=re-share) | /u/InadequateUsername
+[Comey Letter on Clinton email is subject of justice dept. inquiry](https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html?ref=politics&_r=0) | /u/NancyJaneNZ",1484249147.0,🤖 Bot,,https://www.reddit.com/r/politics/comments/5nlegh/megathread_department_of_justice_to_investigate/,4,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_onl9u,False,,0,False,[],r/politics,False,6,,0,,,False,t3_5nlegh,False,dark,0.93,,public,4089,0,{},,,False,[],,False,False,,{},False,4089,,False,True,self,1484297598.0,,"[{'e': 'text', 't': '🤖 Bot'}]",{},self,,True,,text,6,,,richtext,self.politics,True,"<!-- SC_OFF --><div class=""md""><p>The Justice Department Inspector General will review how the FBI and Justice Department handled certain aspects of the Hillary Clinton email investigation.</p>
+
+<hr/>
+
+<h2>Submissions that may interest you</h2>
+
+<table><thead>
+<tr>
+<th>TITLE</th>
+<th>SUBMITTED BY:</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href=""http://www.bbc.co.uk/news/world-us-canada-38603294"">US watchdog to probe FBI Clinton email actions.</a></td>
+<td><a href=""/u/Man-alive"">/u/Man-alive</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.huffingtonpost.com/entry/fbi-clinton-comey-inspector-general_us_5877c33ae4b0c42cb1757919"">DOJ Watchdog To Review FBI Director James Comeys Handling Of Clinton Investigation</a></td>
+<td><a href=""/u/ScholarOfTwilight"">/u/ScholarOfTwilight</a></td>
+</tr>
+<tr>
+<td><a href=""http://nypost.com/2017/01/12/doj-watchdog-to-investigate-fbis-handling-of-hillary-email-probe/"">DOJ watchdog to investigate FBIs handling of Hillary email probe</a></td>
+<td><a href=""/u/africandove"">/u/africandove</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.bbc.com/news/world-us-canada-38603294"">FBI and DOJ probed over election</a></td>
+<td><a href=""/u/zambal"">/u/zambal</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.independent.co.uk/news/world/americas/justice-department-investigate-fbi-comey-handling-hillary-clinton-email-probe-a7524751.html"">Justice Department to Investigate Comey&#39;s Handling of Clinton Email Probe</a></td>
+<td><a href=""/u/mic_harmony"">/u/mic_harmony</a></td>
+</tr>
+<tr>
+<td><a href=""http://edition.cnn.com/2017/01/12/politics/doj-watchdog-launches-probe-into-handling-of-clinton-email-investigation/index.html"">DOJ watchdog launches probe into handling of Clinton email investigation</a></td>
+<td><a href=""/u/outbackqueen"">/u/outbackqueen</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.palmbeachpost.com/news/national/watchdog-investigate-justice-fbi-actions-before-election/UMCXWtSKECJyKRrFuZ193I/"">Watchdog to investigate Justice, FBI actions before election</a></td>
+<td><a href=""/u/gazil9"">/u/gazil9</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-justice-department-watchdog-says-it-1484245535-htmlstory.html"">Justice Department watchdog says it will investigate FBI director&#39;s decision to speak about Clinton investigation</a></td>
+<td><a href=""/u/Urban-Nomad"">/u/Urban-Nomad</a></td>
+</tr>
+<tr>
+<td><a href=""http://time.com/4633278/justice-department-fbi-election-investigation/?xid=time_socialflow_twitter"">Inspector General Will Investigate Justice Department and FBIs Actions Leading Up to 2016 Election</a></td>
+<td><a href=""/u/juliarobart"">/u/juliarobart</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html"">Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry</a></td>
+<td><a href=""/u/NarcolepticMan"">/u/NarcolepticMan</a></td>
+</tr>
+<tr>
+<td><a href=""https://mobile.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html?referer="">Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry</a></td>
+<td><a href=""/u/Alejandro_Last_Name"">/u/Alejandro_Last_Name</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.reuters.com/article/us-usa-election-clinton-idUSKBN14W2NT"">DOJ watchdog investigating FBI decisions in Clinton email probe</a></td>
+<td><a href=""/u/Public_Fucking_Media"">/u/Public_Fucking_Media</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.bloomberg.com/politics/articles/2017-01-12/justice-department-inspector-opens-probe-of-fbi-election-actions"">Justice Watchdog Opens Probe of Comey, FBI Election Actions</a></td>
+<td><a href=""/u/lingben"">/u/lingben</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/post-nation/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/?utm_term=.adeac72b46a1"">Justice Department Inspector General to investigate pre-election actions by department and FBI</a></td>
+<td><a href=""/u/VolMarek"">/u/VolMarek</a></td>
+</tr>
+<tr>
+<td><a href=""http://talkingpointsmemo.com/livewire/justice-department-inspector-general-investigation"">DOJ Inspector General To Probe FBI, DOJ Officials&#39; Actions In Run-Up To Election</a></td>
+<td><a href=""/u/fairfield"">/u/fairfield</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.bloomberg.com/news/articles/2017-01-12/justice-dept-auditor-to-open-probe-of-fbi-actions-in-campaign-ixuory4e?cmpid=socialflow-twitter-business&amp;utm_content=politics&amp;utm_campaign=socialflow-organic&amp;utm_source=twitter&amp;utm_medium=social&amp;cmpid%3D=socialflow-twitter-politics"">Justice Dept Auditor to Open Probe of FBI Actions in Campaign</a></td>
+<td><a href=""/u/piede"">/u/piede</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.cnn.com/2017/01/12/politics/doj-watchdog-launches-probe-into-handling-of-clinton-email-investigation/index.html?adkey=bn"">DOJ watchdog launches probe into handling of Clinton email investigation</a></td>
+<td><a href=""/u/OnceHadSexAMA"">/u/OnceHadSexAMA</a></td>
+</tr>
+<tr>
+<td><a href=""http://mobile.reuters.com/article/idUSKBN14W2NT"">DOJ watchdog investigating FBI decisions in Clinton email probe</a></td>
+<td><a href=""/u/The_Onyx_Hammer"">/u/The_Onyx_Hammer</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.politico.com/story/2017/01/justice-department-watchdog-opens-review-of-clinton-email-investigation-233549"">Justice Department watchdog opens review of Comey&#39;s Clinton email investigation</a></td>
+<td><a href=""/u/JackieWayne"">/u/JackieWayne</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/world/national-security/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/2017/01/12/ec914c8c-d8f1-11e6-9a36-1d296534b31e_story.html"">Justice Department inspector general to investigate pre-election actions by department and FBI</a></td>
+<td><a href=""/u/Midmotion"">/u/Midmotion</a></td>
+</tr>
+<tr>
+<td><a href=""http://thehill.com/policy/national-security/314002-justice-department-inspector-general-to-investigate-pre-election"">Justice Department inspector general to investigate pre-election conduct by FBI</a></td>
+<td><a href=""/u/delta_14"">/u/delta_14</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.nbcwashington.com/news/politics/DOJ-Inspector-General-to-Probe-FBI-Actions-Ahead-of-Election--410542475.html"">DOJ Inspector General to Probe FBI Actions Ahead of Election</a></td>
+<td><a href=""/u/Edw4rdTeach"">/u/Edw4rdTeach</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/post-politics/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/?utm_term=.7f2bf83307d2"">Justice Department inspector general to investigate pre-election actions by department and FBI</a></td>
+<td><a href=""/u/Weir_Everywhere"">/u/Weir_Everywhere</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.npr.org/sections/thetwo-way/2017/01/12/509520381/doj-watchdog-to-review-conduct-of-fbi-other-justice-officials-ahead-of-election?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=npr&amp;utm_term=nprnews&amp;utm_content=20170112"">DOJ Watchdog To Review Pre-Election Conduct Of FBI, Other Justice Officials</a></td>
+<td><a href=""/u/the_bigZ"">/u/the_bigZ</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.bbc.com/news/world-us-canada-38603294?ns_mchannel=social&amp;ns_campaign=bbc_breaking&amp;ns_source=twitter&amp;ns_linkname=news_central"">US watchdog to probe FBI Clinton email actions - BBC News</a></td>
+<td><a href=""/u/eye_josh"">/u/eye_josh</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.theguardian.com/us-news/2017/jan/12/justice-department-fbi-review-james-comey-hillary-clinton-emails"">Justice department to review FBI&#39;s conduct in Clinton email inquiry</a></td>
+<td><a href=""/u/KitAndKat"">/u/KitAndKat</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.msnbc.com/craig-melvin/watch/fbi-probe-launched-into-fbi-actions-ahead-of-election-853474883631"">DOJ Inspector General launches probe into FBI actions ahead of election</a></td>
+<td><a href=""/u/mspk7305"">/u/mspk7305</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/blogs/plum-line/wp/2017/01/12/there-will-be-an-investigation-of-james-comeys-conduct-we-might-get-some-accountability-after-all/?utm_term=.477e14a0f18d"">There will be an investigation of James Comeys conduct. We might get some accountability, after all.</a></td>
+<td><a href=""/u/Brad_tilf"">/u/Brad_tilf</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.ft.com/content/f7dff042-d8fc-11e6-944b-e7eb37a6aa8e"">DoJ and FBI officials face US election probe</a></td>
+<td><a href=""/u/Zerowantuthri"">/u/Zerowantuthri</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.nbcnews.com/news/us-news/clinton-emails-doj-inspector-general-investigate-fbi-comey-actions-n706186"">Clinton Emails: DOJ Inspector General to Review FBI, Comey Actions.</a></td>
+<td><a href=""/u/dannylandulf"">/u/dannylandulf</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.npr.org/sections/thetwo-way/2017/01/12/509520381/doj-watchdog-to-review-conduct-of-fbi-other-justice-officials-ahead-of-election"">DOJ Watchdog To Review Pre-Election Conduct Of FBI, Other Justice Officials</a></td>
+<td><a href=""/u/somatic-"">/u/somatic-</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.cnn.com/2017/01/12/politics/doj-watchdog-launches-probe-into-handling-of-clinton-email-investigation/"">FBI, Justice Department to be investigated over Clinton probe</a></td>
+<td><a href=""/u/Bigpiganddig"">/u/Bigpiganddig</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.washingtonpost.com/news/post-nation/wp/2017/01/12/justice-department-inspector-general-to-investigate-pre-election-actions-by-department-and-fbi/"">Justice Department inspector general to investigate pre-election actions by department and FBI</a></td>
+<td><a href=""/u/eye_josh"">/u/eye_josh</a></td>
+</tr>
+<tr>
+<td><a href=""http://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html?smid=re-share"">Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry</a></td>
+<td><a href=""/u/InadequateUsername"">/u/InadequateUsername</a></td>
+</tr>
+<tr>
+<td><a href=""https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html?ref=politics&amp;_r=0"">Comey Letter on Clinton email is subject of justice dept. inquiry</a></td>
+<td><a href=""/u/NancyJaneNZ"">/u/NancyJaneNZ</a></td>
+</tr>
+</tbody></table>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/zLBGwWD_5CyIn1TpibFaONG52Puol_t3A7XXS7VLgaA.jpg?auto=webp&s=9a2b5b9450ab8d39a92be5f7d8defda63e48fddb', 'width': 1024, 'height': 576}, 'resolutions': [{'url': 'https://external-preview.redd.it/zLBGwWD_5CyIn1TpibFaONG52Puol_t3A7XXS7VLgaA.jpg?width=108&crop=smart&auto=webp&s=981ff447e755f53f77061fb714b1e3c9622efa34', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/zLBGwWD_5CyIn1TpibFaONG52Puol_t3A7XXS7VLgaA.jpg?width=216&crop=smart&auto=webp&s=1177803dea18917442f1410bf1c3376f0ea50695', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/zLBGwWD_5CyIn1TpibFaONG52Puol_t3A7XXS7VLgaA.jpg?width=320&crop=smart&auto=webp&s=d5f25ed313e963826506da48c5ab3415306c9719', 'width': 320, 'height': 180}, {'url': 'https://external-preview.redd.it/zLBGwWD_5CyIn1TpibFaONG52Puol_t3A7XXS7VLgaA.jpg?width=640&crop=smart&auto=webp&s=59a39642ced3e74966dba888313a4f2ad3072ab4', 'width': 640, 'height': 360}, {'url': 'https://external-preview.redd.it/zLBGwWD_5CyIn1TpibFaONG52Puol_t3A7XXS7VLgaA.jpg?width=960&crop=smart&auto=webp&s=5bcf4373b13d073676383e90e0263748995dcc39', 'width': 960, 'height': 540}], 'variants': {}, 'id': 'a29TGUebRcyYXDsAFFJWDnM8cz8SBj1ZPDsQ8Tv8UT4'}], 'enabled': False}",[],[],False,False,False,False,[],False,,,moderator,t5_2cneq,False,,,,True,,,1800,False,all_ads,False,[],False,dark,/r/politics/comments/5nlegh/megathread_department_of_justice_to_investigate/,all_ads,False,7905707,1484249147.0,0,,False,False,{},
+5,3e6yzf,campbellholly4500,Poll: Clinton trails top Republicans in battleground states,,1437569954.0,,,http://www.cnn.com/2015/07/22/politics/hillary-clinton-marco-rubio-jeb-bush-polls/index.html,5,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_lbe2h,False,,0,False,[],r/politics,False,6,,0,78.0,,False,t3_3e6yzf,False,dark,0.52,,public,1,0,{},140.0,,False,[],,False,False,,{},False,1,,False,False,https://b.thumbs.redditmedia.com/fgSZ9Rcm81Qsfcbrt1k9ZIx8KWxPqWzeQLdnLp3MOLI.jpg,False,,[],{},link,,False,,text,6,,,text,cnn.com,False,,,,,http://www.cnn.com/2015/07/22/politics/hillary-clinton-marco-rubio-jeb-bush-polls/index.html,,True,True,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?auto=webp&s=f606001100baf873066f9dbf06aa92521d0e4f53', 'width': 1600, 'height': 900}, 'resolutions': [{'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?width=108&crop=smart&auto=webp&s=5c173efaa4bd0ce95c0ded98952ab264ae95a3ce', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?width=216&crop=smart&auto=webp&s=dd969bf5abcc7be905de908e03445165cc81ebfa', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?width=320&crop=smart&auto=webp&s=95d28eb2720bb4b524df7d0eb314c23870edf72a', 'width': 320, 'height': 180}, {'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?width=640&crop=smart&auto=webp&s=1d123ff93ec0b6d668d50aa3925d67f3facd0d94', 'width': 640, 'height': 360}, {'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?width=960&crop=smart&auto=webp&s=a30a27b20b6400f657b730e284d2a218fecf4bf6', 'width': 960, 'height': 540}, {'url': 'https://external-preview.redd.it/5GkGkStz8GedcnjEhtRcv7ZaomkqHCeUYF1sgD8kxlM.jpg?width=1080&crop=smart&auto=webp&s=c98c6175652fac301080ce6319d6e00c29661cdf', 'width': 1080, 'height': 607}], 'variants': {}, 'id': 'aBxj5bAU4T_p_Us5WlyW53Q8LeA9c_rODZszVrtOc1k'}], 'enabled': False}",[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,3,True,all_ads,False,[],False,,/r/politics/comments/3e6yzf/poll_clinton_trails_top_republicans_in/,all_ads,False,7905707,1437569954.0,0,,False,False,{},
+6,6bixt1,JWojcik_PW,"I’m John Wojcik, Editor-in-Chief of People’s World, the successor of the world famous Daily Worker. Ask me anything!","I’ve worked at the [People’s World](http://www.peoplesworld.org/) for the last two years as Editor-in-Chief, and for the nine years prior to that as the publication’s Labor Editor.
+
+I got my start in journalism as editor of The Downtowner, the newspaper at St. John’s University in Brooklyn, New York. In 1971, I went to work as, first, a political action reporter, and then as desk editor of the Daily World where I stayed until 1989. The Daily World was the predecessor of People’s World and it, like the PW, traced its lineage back to the Daily Worker, founded in 1924
+
+I was among the first in the nation to cover the election of Eddie Carthan, the first African American mayor elected in Mississippi since Reconstruction, and the failed effort by Mississippi Delta racists to frame him for murder. I experienced personal assaults, including a fire bombing of my motel room by the Ku Klux Klan.
+During that time, I also worked to lessen the danger of the Cold War by organizing cultural and other exchanges between the U.S. and the German Democratic Republic (GDR), bringing delegations of well-known Hollywood movie actors to that country and cultural figures from there to the United States. 
+
+In between my stints at the Daily World/People’s World I was a union organizer, organizing workers in Northern New Jersey into the UFCW. 
+I’ve won a handful of awards from the International Labor Communication’s Association for my reportage on how a small town in California [bested a giant oil corporation](http://www.peoplesworld.org/article/inside-story-on-how-one-little-city-slew-an-oil-dragon/), uncovering a [two-tier wage scheme](http://www.peoplesworld.org/article/as-nightmare-scenario-unfolds-in-one-plant-auto-union-fights-for-american-way-of-life/) in the auto industry, and how de-industrialization in Pennsylvania steel mills created a literal [diaspora of Steeler football fans](http://www.peoplesworld.org/article/steeler-nation-fights-its-way-back/) surviving at anything thousands of miles from home. 
+
+Given the threat of Donald Trump and the ultra-right, I feel that the People’s World is needed now more than ever. He is an unprecedented threat to the lives and livelihoods of all working people. You can find some of my most recent pieces on his presidency [here](http://www.peoplesworld.org/article/trump-may-be-hiding-much-more-than-collusion-on-election-interference/), [here](http://www.peoplesworld.org/article/comeys-firing-trumps-attacks-on-democracy-bring-america-to-the-brink/), and [here](http://www.peoplesworld.org/article/labor-leaders-grapple-with-how-to-halt-the-trump-agenda-2/). 
+
+With no further ado, ask me anything!
+
+https://twitter.com/PeoplesWorld/status/864491091516678145",1494956071.0,"✔ John Wojcik, People's World",AMA-Finished,https://www.reddit.com/r/politics/comments/6bixt1/im_john_wojcik_editorinchief_of_peoples_world_the/,6,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_17n2jrq,False,,0,False,"[{'e': 'text', 't': 'AMA-Finished'}]",r/politics,False,6,,0,,,False,t3_6bixt1,False,light,0.76,#dadada,public,593,0,{},,69273054-9b92-11e8-8006-0e5935cd1810,False,[],,False,False,,{},False,593,,False,False,self,False,,"[{'e': 'text', 't': ""✔ John Wojcik, People's World""}]",{},self,,True,,richtext,6,,,richtext,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>I’ve worked at the <a href=""http://www.peoplesworld.org/"">People’s World</a> for the last two years as Editor-in-Chief, and for the nine years prior to that as the publication’s Labor Editor.</p>
+
+<p>I got my start in journalism as editor of The Downtowner, the newspaper at St. John’s University in Brooklyn, New York. In 1971, I went to work as, first, a political action reporter, and then as desk editor of the Daily World where I stayed until 1989. The Daily World was the predecessor of People’s World and it, like the PW, traced its lineage back to the Daily Worker, founded in 1924</p>
+
+<p>I was among the first in the nation to cover the election of Eddie Carthan, the first African American mayor elected in Mississippi since Reconstruction, and the failed effort by Mississippi Delta racists to frame him for murder. I experienced personal assaults, including a fire bombing of my motel room by the Ku Klux Klan.
+During that time, I also worked to lessen the danger of the Cold War by organizing cultural and other exchanges between the U.S. and the German Democratic Republic (GDR), bringing delegations of well-known Hollywood movie actors to that country and cultural figures from there to the United States. </p>
+
+<p>In between my stints at the Daily World/People’s World I was a union organizer, organizing workers in Northern New Jersey into the UFCW. 
+I’ve won a handful of awards from the International Labor Communication’s Association for my reportage on how a small town in California <a href=""http://www.peoplesworld.org/article/inside-story-on-how-one-little-city-slew-an-oil-dragon/"">bested a giant oil corporation</a>, uncovering a <a href=""http://www.peoplesworld.org/article/as-nightmare-scenario-unfolds-in-one-plant-auto-union-fights-for-american-way-of-life/"">two-tier wage scheme</a> in the auto industry, and how de-industrialization in Pennsylvania steel mills created a literal <a href=""http://www.peoplesworld.org/article/steeler-nation-fights-its-way-back/"">diaspora of Steeler football fans</a> surviving at anything thousands of miles from home. </p>
+
+<p>Given the threat of Donald Trump and the ultra-right, I feel that the People’s World is needed now more than ever. He is an unprecedented threat to the lives and livelihoods of all working people. You can find some of my most recent pieces on his presidency <a href=""http://www.peoplesworld.org/article/trump-may-be-hiding-much-more-than-collusion-on-election-interference/"">here</a>, <a href=""http://www.peoplesworld.org/article/comeys-firing-trumps-attacks-on-democracy-bring-america-to-the-brink/"">here</a>, and <a href=""http://www.peoplesworld.org/article/labor-leaders-grapple-with-how-to-halt-the-trump-agenda-2/"">here</a>. </p>
+
+<p>With no further ado, ask me anything!</p>
+
+<p><a href=""https://twitter.com/PeoplesWorld/status/864491091516678145"">https://twitter.com/PeoplesWorld/status/864491091516678145</a></p>
+</div><!-- SC_ON -->",,qa,,,,True,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/06oDCi17RW4EBD0sMN-QgECrNn_Iswv_Cul_-ggmBvA.jpg?auto=webp&s=11824fb082178440279e8eef0fee265548a989de', 'width': 960, 'height': 540}, 'resolutions': [{'url': 'https://external-preview.redd.it/06oDCi17RW4EBD0sMN-QgECrNn_Iswv_Cul_-ggmBvA.jpg?width=108&crop=smart&auto=webp&s=db8e8f5aecbd20c6f6efd1f6f29bd45e96352353', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/06oDCi17RW4EBD0sMN-QgECrNn_Iswv_Cul_-ggmBvA.jpg?width=216&crop=smart&auto=webp&s=897aa13a9a9b360de1732df511f885d5a4b59386', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/06oDCi17RW4EBD0sMN-QgECrNn_Iswv_Cul_-ggmBvA.jpg?width=320&crop=smart&auto=webp&s=46e105b8faff08f9dc90d4a0087a1527c7797d30', 'width': 320, 'height': 180}, {'url': 'https://external-preview.redd.it/06oDCi17RW4EBD0sMN-QgECrNn_Iswv_Cul_-ggmBvA.jpg?width=640&crop=smart&auto=webp&s=52220e1a7215f9e8c0efe574265094b25e2015e3', 'width': 640, 'height': 360}, {'url': 'https://external-preview.redd.it/06oDCi17RW4EBD0sMN-QgECrNn_Iswv_Cul_-ggmBvA.jpg?width=960&crop=smart&auto=webp&s=5d34b42db5cccfddda07b0cf0c8f3512a99f488e', 'width': 960, 'height': 540}], 'variants': {}, 'id': '3CmHbriCpqqOOtZ_gV2jifafkYJv2Fkciv3DmTjrD_0'}], 'enabled': False}",[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,#0079d3,True,,,197,True,all_ads,False,[],False,dark,/r/politics/comments/6bixt1/im_john_wojcik_editorinchief_of_peoples_world_the/,all_ads,False,7905707,1494956071.0,0,,False,False,{},09c69740-9c22-11e8-93a0-0e506db4e720
+7,lbk0t,archibot,Brilliant Eviction Tactical Plans for #OWS (from top comment on occupywallst.org),"Solidarity and support from Argentina,
+
+...here is an eviction defense tactical plan penned by an ex US Special Operations tier one mission commander, pilot and mission planner that worked with Delta Force and Seal Team 6:
+
+""This is going to get interesting. Will be working up some ideas for how this could play out. Let's start off with an assumption. This is Bloomberg vs. Occupy. One mind vs. many minds. The goal is to coerce him into changing his mind. Dissuade him. Get inside his OODA loop.
+
+-Go straight for him. **Maximize the eviction's taint on Bloomberg's personal brand.** Personalize the protest/eviction by attaching the blame to him personally.
+Pierce his shield of bureaucratic impersonality. Brand the eviction with the name: Bloomberg. This is/will be a global stage, use it.
+
+-Confuse him. Lots and lots of Flash Mobs. Shut down bridges and major streets. **Overwhelm with volume/speed. Non-violent disruption.** As soon as police arrive in force, disperse and reassemble at new location. Bikes + Kids. Disrupt, disrupt, disrupt. More flashmobs = more disruption. As long as the square is under attack, keep the city in knots.
+
+-Connect with more people than him. Best way to do this: Eyes in the sky. **Get a camera/cameras above Liberty Square. Stream the feed.** The better the quality the more impact it will have. It will play across the world. Think about how important AJs video feed over Tahrir was when things got hot. Better yet, get AJ to cover it and stream it.
+
+If you have additional ideas, add them below. Good training in tactical thinking.
+
+Hoisted from the comments:
+
+The flashmob tactic was tried here in Panama couple of years ago by the SUNTRACS construction workers union, and with very small groups pre-planted all over the city they drove the police absolutely crazy. Police would show up at location A, mob would disperse immediately, two text messages and now TWO flashmobs would block streets at different locations. They never followed up with it (preferring massive marches to display force) but it worked very well and with much less people than #ows has available. [courtesy: Okke] ""  [occupywallst.org source](http://occupywallst.org/article/how-hold-your-ground/#comments).
+
+**EDIT:**  Great discussions below. There seems to be some consensus that flash mobs will help to spread out the NYPD and can be a useful tactic, but that they should NOT be used to stop traffic by blocking streets and bridges because this could turn the everyman against #OWS.",1318557599.0,,,https://www.reddit.com/r/politics/comments/lbk0t/brilliant_eviction_tactical_plans_for_ows_from/,7,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_4cz0n,False,,0,False,[],r/politics,False,6,,0,,,False,t3_lbk0t,False,dark,0.89,,public,265,0,{},,,False,[],,False,False,,{},False,265,,False,False,self,1318561199.0,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>Solidarity and support from Argentina,</p>
+
+<p>...here is an eviction defense tactical plan penned by an ex US Special Operations tier one mission commander, pilot and mission planner that worked with Delta Force and Seal Team 6:</p>
+
+<p>&quot;This is going to get interesting. Will be working up some ideas for how this could play out. Let&#39;s start off with an assumption. This is Bloomberg vs. Occupy. One mind vs. many minds. The goal is to coerce him into changing his mind. Dissuade him. Get inside his OODA loop.</p>
+
+<p>-Go straight for him. <strong>Maximize the eviction&#39;s taint on Bloomberg&#39;s personal brand.</strong> Personalize the protest/eviction by attaching the blame to him personally.
+Pierce his shield of bureaucratic impersonality. Brand the eviction with the name: Bloomberg. This is/will be a global stage, use it.</p>
+
+<p>-Confuse him. Lots and lots of Flash Mobs. Shut down bridges and major streets. <strong>Overwhelm with volume/speed. Non-violent disruption.</strong> As soon as police arrive in force, disperse and reassemble at new location. Bikes + Kids. Disrupt, disrupt, disrupt. More flashmobs = more disruption. As long as the square is under attack, keep the city in knots.</p>
+
+<p>-Connect with more people than him. Best way to do this: Eyes in the sky. <strong>Get a camera/cameras above Liberty Square. Stream the feed.</strong> The better the quality the more impact it will have. It will play across the world. Think about how important AJs video feed over Tahrir was when things got hot. Better yet, get AJ to cover it and stream it.</p>
+
+<p>If you have additional ideas, add them below. Good training in tactical thinking.</p>
+
+<p>Hoisted from the comments:</p>
+
+<p>The flashmob tactic was tried here in Panama couple of years ago by the SUNTRACS construction workers union, and with very small groups pre-planted all over the city they drove the police absolutely crazy. Police would show up at location A, mob would disperse immediately, two text messages and now TWO flashmobs would block streets at different locations. They never followed up with it (preferring massive marches to display force) but it worked very well and with much less people than #ows has available. [courtesy: Okke] &quot;  <a href=""http://occupywallst.org/article/how-hold-your-ground/#comments"">occupywallst.org source</a>.</p>
+
+<p><strong>EDIT:</strong>  Great discussions below. There seems to be some consensus that flash mobs will help to spread out the NYPD and can be a useful tactic, but that they should NOT be used to stop traffic by blocking streets and bridges because this could turn the everyman against #OWS.</p>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,111,True,all_ads,False,[],False,,/r/politics/comments/lbk0t/brilliant_eviction_tactical_plans_for_ows_from/,all_ads,False,7905707,1318557599.0,0,,False,False,{},
+8,e501b,essextrain,"Dear Reddit, I have taken the time to write to as many airlines and officials as I can think of, here's to not just bitching and actually doing something","I have taken the the time to write the following note to a number of airlines as well as local/state/federal officials  
+  
+Delta  
+Jet Blue  
+Continental  
+American Airlines  
+United  
+US Airways  
+Southwest  
+AirTran  
+Virgin America  
+  
+TSA  
+Bob McDonnell - Governor  
+Bill Bolling - Lt Governor  
+Kenneth Cuccinelli - VA Attorny General  
+Jim Webb - Senator  
+Mark Warner - Senator  
+Gerald Connolly - Congressman  
+Barack Obama - President  
+Eric Holder - US Attorney General  
+  
+To whom it may concern,  
+  
+Due to the recent policy implementations by the TSA (Theatrical Security Administration) regarding AIT scanners and ""enhanced pat downs"" I will no longer by traveling by air, either for business or pleasure.  
+  
+I consider both new policies as a grave breach of civil rights as well as an affront to the fourth amendment.  
+
+When the choice is either an invasive, dangerous dose of ionizing radiation or sexual assault under duress (meant to frighten travelers into taking the scan) I choose to travel by car and rail.  
+  
+You have lost me as a customer, and my money as a consumer, and I will convince as many people, friends and family as possible to do the same.  
+  
+~My Name",1289542760.0,,,https://www.reddit.com/r/politics/comments/e501b/dear_reddit_i_have_taken_the_time_to_write_to_as/,8,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_3u76h,False,,0,False,[],r/politics,False,6,,0,,,False,t3_e501b,False,dark,0.7,,public,28,0,{},,,False,[],,False,False,,{},False,28,,False,False,self,False,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>I have taken the the time to write the following note to a number of airlines as well as local/state/federal officials  </p>
+
+<p>Delta<br/>
+Jet Blue<br/>
+Continental<br/>
+American Airlines<br/>
+United<br/>
+US Airways<br/>
+Southwest<br/>
+AirTran<br/>
+Virgin America  </p>
+
+<p>TSA<br/>
+Bob McDonnell - Governor<br/>
+Bill Bolling - Lt Governor<br/>
+Kenneth Cuccinelli - VA Attorny General<br/>
+Jim Webb - Senator<br/>
+Mark Warner - Senator<br/>
+Gerald Connolly - Congressman<br/>
+Barack Obama - President<br/>
+Eric Holder - US Attorney General  </p>
+
+<p>To whom it may concern,  </p>
+
+<p>Due to the recent policy implementations by the TSA (Theatrical Security Administration) regarding AIT scanners and &quot;enhanced pat downs&quot; I will no longer by traveling by air, either for business or pleasure.  </p>
+
+<p>I consider both new policies as a grave breach of civil rights as well as an affront to the fourth amendment.  </p>
+
+<p>When the choice is either an invasive, dangerous dose of ionizing radiation or sexual assault under duress (meant to frighten travelers into taking the scan) I choose to travel by car and rail.  </p>
+
+<p>You have lost me as a customer, and my money as a consumer, and I will convince as many people, friends and family as possible to do the same.  </p>
+
+<p>~My Name</p>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,20,True,all_ads,False,[],False,,/r/politics/comments/e501b/dear_reddit_i_have_taken_the_time_to_write_to_as/,all_ads,False,7905707,1289542760.0,0,,False,False,{},
+9,2s0bjn,King_of_Sulaco,Green Capitalism,"Environmentalist fall into two categories:
+
+People concerned about harm to people and ecosystems:
+
+1. Control toxic pollution.
+
+2. Water quality standards.
+
+3. Conservation of natural resources.
+
+4. Maintaining soil fertility
+
+5. Protecting unique fauna and flora.
+
+
+These are rational people who consider costs vs. benefits.
+
+And..
+
+People who blame post-industrial society for all of society's problems:
+
+1. Ban GMO's and pesticides.
+
+2. Eliminate any form of energy invented after 1600 AD.
+
+3. Eliminate the domestication of animals.
+
+4. Eliminate all plastics or oil-based products.
+
+5. Prevent large-scale agricultural production.
+
+These are uncompromising fanatics who want to return to a pre-industrial Eden that never really existed by turning back the clock on technological progress.
+
+NEW PRINCIPLES FOR ECOLOGICAL CONSERVATION
+ 
+1. Accept the role of the free market as the guiding force in human behavior and not state mandates.
+
+2. Incorporate effective economic mechanisms, such as private property, profit incentive and prices, for pursuing ecological and biological protection.
+
+3. Understand the difference between potential and proven reserves and the economic impact of technological progress on resource availability and usage.
+
+4. Accept that externalities dominate all human activities and find ways to mitigate their impact and; that the price system encourages conservation and alternative resource development.
+
+5. Abandon the risk-adverse, zero-impact mentality and develop a balanced cost-benefit analysis taking in account individual variations of tolerance.
+
+6. Accept innovation for meeting standards and not dictating specific controls or methods for limiting pollution.
+7. Understand the Kuznets Curve which demonstrates how long-term growth correlates with higher demand for human welfare and environmental protection. 
+
+8. Understand how Moore's Law allows for future technologies to utilize fewer resources at lower costs over time; and how Comparative Trade Advantage enables free trade to conserve resources.
+
+9. Concentrate efforts on protecting communities and individual human beings from direct environmental health hazards.
+
+10. Understand that the greatest polluters are governments and work toward a regime that enforces pollution controls against government actions as well as private.
+
+11. Understand the limits of energy efficiency on conservation imposed by Jevons Paradox.
+
+Threats to Environmental Conservation
+
+1. Public ownership creates a tragedy of the commons for forests, wetlands and grasslands.
+
+2. Prior-Restraint regulation socializes the costs of environmental damage thereby encouraging it.
+
+3. Federal subsidies of dams, irrigation and agriculture damaging wetland habitats.
+
+4. Prohibiting ownership and commercial use of endangered animals hastens extinction.
+
+5. Federal agency exemption from both clean water and clean air standards.
+
+6. Illegal dumping on public lands due to sporadic public enforcement.
+
+7. Eminent domain use on behalf of private interests for risky projects.
+
+8. Public funded insurance encouraging people live in flood zones and coasts.
+
+9. Trade barriers protecting water-intensive agriculture and manufacturing.
+
+10. Reducing the effectiveness and quality of green products via non-competitive subsidies.
+
+11. Draconian wildlife protection laws encouraging wildlife destruction.
+
+12. Economic stagnation and recession increase tolerance of eco-degradation (Kuznets Curve).
+
+
+How to Fix These Failed Policies
+
+1. Privatize the majority of public lands and aquifers allowing for stewardship and conservation by private actors. Return National Parks to the States so that they can be better managed as smaller budget items.
+
+2. Allow for industry to meet EPA standards by cost-effective innovation and repeal specific -control mandates and replace them with fines for violating pollution limits. 
+
+3. End environmentally destructive hydro-electric subsidies that encourage aquifer depletion and wetland destruction.
+
+4. Allow for the commercial trade in endangered species to create profit incentive for recovering their numbers and relax rules requiring scientific research for the ownership of animal by zoos.
+
+5. Ensure that regulations for protecting water and air from toxins apply equally to the agencies of the federal government as they do for private actors.
+
+6. Increase fines for dumping in public spaces while decreasing the total acreage owned by any given agency and let private owners have a stake in protecting those resources through civil remittance.
+
+7. Repudiate Kelo v. New London, which allows for eminent domain seizures for private use and expand the ability for property owners and communities affected by rails, dams or pipelines to sue for injunctions.
+
+8. Repeal FEMA and NFIP compensation for coastal areas, deltas and floodplains that are too risky for private development by market-based insurance estimates, saving money, seashores and lives. 
+
+9. Repeal or greatly reduce tariffs and farm subsidies that protect intensive agricultural activities from market costs at the expense of aquifers and wetlands.
+
+10. End all subsidies, tax-breaks and no-bid contracts for energy production or energy-saving products to let the market decide the value of green savings, increasing competition and quality.
+
+11. Give property owners an incentive to care for protected species by justly compensating them for the loss of land usage under the rules of eminent domain for public use.
+
+12. Support policies that are pro-economic growth allowing for greater demand for clean environments and a robust development of new green technologies.
+",1420932417.0,,,https://www.reddit.com/r/politics/comments/2s0bjn/green_capitalism/,9,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_ka40f,False,,0,False,[],r/politics,False,6,,0,,,False,t3_2s0bjn,False,dark,0.42,,public,0,0,{},,,False,[],,False,False,,{},False,0,,False,False,self,1420932614.0,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>Environmentalist fall into two categories:</p>
+
+<p>People concerned about harm to people and ecosystems:</p>
+
+<ol>
+<li><p>Control toxic pollution.</p></li>
+<li><p>Water quality standards.</p></li>
+<li><p>Conservation of natural resources.</p></li>
+<li><p>Maintaining soil fertility</p></li>
+<li><p>Protecting unique fauna and flora.</p></li>
+</ol>
+
+<p>These are rational people who consider costs vs. benefits.</p>
+
+<p>And..</p>
+
+<p>People who blame post-industrial society for all of society&#39;s problems:</p>
+
+<ol>
+<li><p>Ban GMO&#39;s and pesticides.</p></li>
+<li><p>Eliminate any form of energy invented after 1600 AD.</p></li>
+<li><p>Eliminate the domestication of animals.</p></li>
+<li><p>Eliminate all plastics or oil-based products.</p></li>
+<li><p>Prevent large-scale agricultural production.</p></li>
+</ol>
+
+<p>These are uncompromising fanatics who want to return to a pre-industrial Eden that never really existed by turning back the clock on technological progress.</p>
+
+<p>NEW PRINCIPLES FOR ECOLOGICAL CONSERVATION</p>
+
+<ol>
+<li><p>Accept the role of the free market as the guiding force in human behavior and not state mandates.</p></li>
+<li><p>Incorporate effective economic mechanisms, such as private property, profit incentive and prices, for pursuing ecological and biological protection.</p></li>
+<li><p>Understand the difference between potential and proven reserves and the economic impact of technological progress on resource availability and usage.</p></li>
+<li><p>Accept that externalities dominate all human activities and find ways to mitigate their impact and; that the price system encourages conservation and alternative resource development.</p></li>
+<li><p>Abandon the risk-adverse, zero-impact mentality and develop a balanced cost-benefit analysis taking in account individual variations of tolerance.</p></li>
+<li><p>Accept innovation for meeting standards and not dictating specific controls or methods for limiting pollution.</p></li>
+<li><p>Understand the Kuznets Curve which demonstrates how long-term growth correlates with higher demand for human welfare and environmental protection. </p></li>
+<li><p>Understand how Moore&#39;s Law allows for future technologies to utilize fewer resources at lower costs over time; and how Comparative Trade Advantage enables free trade to conserve resources.</p></li>
+<li><p>Concentrate efforts on protecting communities and individual human beings from direct environmental health hazards.</p></li>
+<li><p>Understand that the greatest polluters are governments and work toward a regime that enforces pollution controls against government actions as well as private.</p></li>
+<li><p>Understand the limits of energy efficiency on conservation imposed by Jevons Paradox.</p></li>
+</ol>
+
+<p>Threats to Environmental Conservation</p>
+
+<ol>
+<li><p>Public ownership creates a tragedy of the commons for forests, wetlands and grasslands.</p></li>
+<li><p>Prior-Restraint regulation socializes the costs of environmental damage thereby encouraging it.</p></li>
+<li><p>Federal subsidies of dams, irrigation and agriculture damaging wetland habitats.</p></li>
+<li><p>Prohibiting ownership and commercial use of endangered animals hastens extinction.</p></li>
+<li><p>Federal agency exemption from both clean water and clean air standards.</p></li>
+<li><p>Illegal dumping on public lands due to sporadic public enforcement.</p></li>
+<li><p>Eminent domain use on behalf of private interests for risky projects.</p></li>
+<li><p>Public funded insurance encouraging people live in flood zones and coasts.</p></li>
+<li><p>Trade barriers protecting water-intensive agriculture and manufacturing.</p></li>
+<li><p>Reducing the effectiveness and quality of green products via non-competitive subsidies.</p></li>
+<li><p>Draconian wildlife protection laws encouraging wildlife destruction.</p></li>
+<li><p>Economic stagnation and recession increase tolerance of eco-degradation (Kuznets Curve).</p></li>
+</ol>
+
+<p>How to Fix These Failed Policies</p>
+
+<ol>
+<li><p>Privatize the majority of public lands and aquifers allowing for stewardship and conservation by private actors. Return National Parks to the States so that they can be better managed as smaller budget items.</p></li>
+<li><p>Allow for industry to meet EPA standards by cost-effective innovation and repeal specific -control mandates and replace them with fines for violating pollution limits. </p></li>
+<li><p>End environmentally destructive hydro-electric subsidies that encourage aquifer depletion and wetland destruction.</p></li>
+<li><p>Allow for the commercial trade in endangered species to create profit incentive for recovering their numbers and relax rules requiring scientific research for the ownership of animal by zoos.</p></li>
+<li><p>Ensure that regulations for protecting water and air from toxins apply equally to the agencies of the federal government as they do for private actors.</p></li>
+<li><p>Increase fines for dumping in public spaces while decreasing the total acreage owned by any given agency and let private owners have a stake in protecting those resources through civil remittance.</p></li>
+<li><p>Repudiate Kelo v. New London, which allows for eminent domain seizures for private use and expand the ability for property owners and communities affected by rails, dams or pipelines to sue for injunctions.</p></li>
+<li><p>Repeal FEMA and NFIP compensation for coastal areas, deltas and floodplains that are too risky for private development by market-based insurance estimates, saving money, seashores and lives. </p></li>
+<li><p>Repeal or greatly reduce tariffs and farm subsidies that protect intensive agricultural activities from market costs at the expense of aquifers and wetlands.</p></li>
+<li><p>End all subsidies, tax-breaks and no-bid contracts for energy production or energy-saving products to let the market decide the value of green savings, increasing competition and quality.</p></li>
+<li><p>Give property owners an incentive to care for protected species by justly compensating them for the loss of land usage under the rules of eminent domain for public use.</p></li>
+<li><p>Support policies that are pro-economic growth allowing for greater demand for clean environments and a robust development of new green technologies.</p></li>
+</ol>
+</div><!-- SC_ON -->",,,,,,True,True,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,12,True,all_ads,False,[],False,,/r/politics/comments/2s0bjn/green_capitalism/,all_ads,False,7905707,1420932417.0,0,,False,False,{},
+10,td0oj,rottenart,"We pretty much have to boycott Delta Airlines now, right?","Delta has caved to pressure from the far-right and anti-gay Catholic League, headed up by Bill Donohue, and has pulled advertising from The Daily Show. [You can read all about it here](http://thinkprogress.org/lgbt/2012/05/07/479683/delta-daily-show-catholic-league/).
+
+The question is, do we have enough willpower to sustain a boycott of Delta? They are a *major* carrier and I bet many redditors have no other choice if they want to fly.
+
+Is this doable? Can we show Bill Donahue that his brand of hate isn't as popular as he thinks?",1336490013.0,,,https://www.reddit.com/r/politics/comments/td0oj/we_pretty_much_have_to_boycott_delta_airlines_now/,10,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_56kzi,False,,0,False,[],r/politics,False,6,,0,,,False,t3_td0oj,False,dark,0.57,,public,3,0,{},,,False,[],,False,False,,{},False,3,,False,False,self,False,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>Delta has caved to pressure from the far-right and anti-gay Catholic League, headed up by Bill Donohue, and has pulled advertising from The Daily Show. <a href=""http://thinkprogress.org/lgbt/2012/05/07/479683/delta-daily-show-catholic-league/"">You can read all about it here</a>.</p>
+
+<p>The question is, do we have enough willpower to sustain a boycott of Delta? They are a <em>major</em> carrier and I bet many redditors have no other choice if they want to fly.</p>
+
+<p>Is this doable? Can we show Bill Donahue that his brand of hate isn&#39;t as popular as he thinks?</p>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,7,True,all_ads,False,[],False,,/r/politics/comments/td0oj/we_pretty_much_have_to_boycott_delta_airlines_now/,all_ads,False,7905707,1336490013.0,0,,False,False,{},
+11,3i1m8y,reddbullish,"Slipping one last one in under the Saturday self post exception. Due to Pres. Jimmy Carter's Cancer diagnosis it's worth looking at his Crisis of Confidence speech of July 19, 1979","Due to Pres. Jimmy Carter's Cancer diagnosis it's worth looking at his Crisis of Confidence speech of July 19, 1979. It would be nice if people honored him for what he got right BEFORE he passes away.
+
+It is worth remembering that the country was experiencing a massive cut off of oil supplies from the middle east which woke the country up to the total dependence we had on nations across the world. You went to get gasoline and you literally had to stand in line for hours to fill up your car. It caused a sort of panic that no one had really experienced before since perhaps rationing in WW2. no one in the USA today has experienced anything similiar except perhaps after an earthquake and only for a short time.
+
+It amazing that young people of today can experience the lessons of history first hand with a click on the computer screen.
+
+You can see how problems were presented and perceived and who was right and who was wrong in the test of history.
+
+Anyway here is the speech. It is for you and history to judge but the good thing is you don't have to do it based on the third hand judgements of others.
+https://www.youtube.com/watch?v=KCOd-qWZB_g
+
+Carter made many mistakes in PRESENTATION ( and he was widely criticized for lecturing and shouting at the 
+country in this speech and for offering a sort of doom and gloom ) but he was often exactly right in his analysis.  
+
+In a way he was an Elon Musk of his time proposing massive solar panel usage and solar power banks. He placed solar panels on the White House and they were ripped down by Reagan when Reagan took office.
+
+He famously failed to get the release of US hostages due in part because a rescue mission by Delta Teams failed. https://en.wikipedia.org/wiki/Iran_hostage_crisis#First_rescue_attempt Had they succeeded there is no doubt Carter would have gone down in history as one of the most kick ass presidents of all time. The result was no fault of his own. 
+
+He also was responsible for choosing to fund the secret development of the stealth technology and cruise missles (drones of yestersday) that gave the USA air superiority of the next 30 yrs when the technology was in no way proven (but he was an engineer so knew its potential). But he couldn't discuss it without giving away a top secret advantage. So he was perceived as weak on defense because he didnt fund other older tech systems like the B1 bomber which he knew were made unnecessary by top secret stealth technology. This may be one of the most important reasons he lost his relection to Reagan because Reagan promised a huge classic military buildup to a nation that had been embarassed by a hostage crisis.
+
+He had many faults but he was prescient and had uncommon honesty and wisdom. He was also one of the first engineer/scientist Presidents. He was a nuclear submarine commander in the elite first group of nuclear sub commanders put together by the famed Admiral Rickover. (although the press preferred to call attention to his families peanut farming business.) It was of course also an extremely hazardous and dangerous duty since this was the first time a nuclear reactor had been deployed on submarine to add to the normal danger of submarine duty. He PERSONALLY entered a failed nuclear reactor to assist in a dangerous cleanup effort. https://en.wikipedia.org/wiki/Jimmy_Carter#Naval_career
+
+And of course after his presidency instead of getting rich from business connections he spent his time building houses for the poor with Habitat for Humanity and secretly represented the United States under many republican and democratic presidents in negotiations when critical issues were happening around the world. Often the presidents he was representing didn't want it known they were using him because those presidents were afraid his poor image would reflect badly on them!
+
+It worth reading more about him at https://en.wikipedia.org/wiki/Jimmy_Carter
+
+We learned this week he has cancer of the brain and its very possible just his treatment could shortly kill him.
+
+Whatever his failures he reinstated honesty in the presidency after the first Presidential resignation in history and served bravely in one of the most dangerous positions in the military of his nation.
+
+It would be nice if people honored him for what he got right BEFORE he passes away.
+
+",1440302095.0,,,https://www.reddit.com/r/politics/comments/3i1m8y/slipping_one_last_one_in_under_the_saturday_self/,11,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_hyy9p,False,,0,False,[],r/politics,False,6,,0,,,False,t3_3i1m8y,False,dark,0.66,,public,9,0,{},,,False,[],,False,False,,{},False,9,,False,False,self,1440392405.0,,[],{},self,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>Due to Pres. Jimmy Carter&#39;s Cancer diagnosis it&#39;s worth looking at his Crisis of Confidence speech of July 19, 1979. It would be nice if people honored him for what he got right BEFORE he passes away.</p>
+
+<p>It is worth remembering that the country was experiencing a massive cut off of oil supplies from the middle east which woke the country up to the total dependence we had on nations across the world. You went to get gasoline and you literally had to stand in line for hours to fill up your car. It caused a sort of panic that no one had really experienced before since perhaps rationing in WW2. no one in the USA today has experienced anything similiar except perhaps after an earthquake and only for a short time.</p>
+
+<p>It amazing that young people of today can experience the lessons of history first hand with a click on the computer screen.</p>
+
+<p>You can see how problems were presented and perceived and who was right and who was wrong in the test of history.</p>
+
+<p>Anyway here is the speech. It is for you and history to judge but the good thing is you don&#39;t have to do it based on the third hand judgements of others.
+<a href=""https://www.youtube.com/watch?v=KCOd-qWZB_g"">https://www.youtube.com/watch?v=KCOd-qWZB_g</a></p>
+
+<p>Carter made many mistakes in PRESENTATION ( and he was widely criticized for lecturing and shouting at the 
+country in this speech and for offering a sort of doom and gloom ) but he was often exactly right in his analysis.  </p>
+
+<p>In a way he was an Elon Musk of his time proposing massive solar panel usage and solar power banks. He placed solar panels on the White House and they were ripped down by Reagan when Reagan took office.</p>
+
+<p>He famously failed to get the release of US hostages due in part because a rescue mission by Delta Teams failed. <a href=""https://en.wikipedia.org/wiki/Iran_hostage_crisis#First_rescue_attempt"">https://en.wikipedia.org/wiki/Iran_hostage_crisis#First_rescue_attempt</a> Had they succeeded there is no doubt Carter would have gone down in history as one of the most kick ass presidents of all time. The result was no fault of his own. </p>
+
+<p>He also was responsible for choosing to fund the secret development of the stealth technology and cruise missles (drones of yestersday) that gave the USA air superiority of the next 30 yrs when the technology was in no way proven (but he was an engineer so knew its potential). But he couldn&#39;t discuss it without giving away a top secret advantage. So he was perceived as weak on defense because he didnt fund other older tech systems like the B1 bomber which he knew were made unnecessary by top secret stealth technology. This may be one of the most important reasons he lost his relection to Reagan because Reagan promised a huge classic military buildup to a nation that had been embarassed by a hostage crisis.</p>
+
+<p>He had many faults but he was prescient and had uncommon honesty and wisdom. He was also one of the first engineer/scientist Presidents. He was a nuclear submarine commander in the elite first group of nuclear sub commanders put together by the famed Admiral Rickover. (although the press preferred to call attention to his families peanut farming business.) It was of course also an extremely hazardous and dangerous duty since this was the first time a nuclear reactor had been deployed on submarine to add to the normal danger of submarine duty. He PERSONALLY entered a failed nuclear reactor to assist in a dangerous cleanup effort. <a href=""https://en.wikipedia.org/wiki/Jimmy_Carter#Naval_career"">https://en.wikipedia.org/wiki/Jimmy_Carter#Naval_career</a></p>
+
+<p>And of course after his presidency instead of getting rich from business connections he spent his time building houses for the poor with Habitat for Humanity and secretly represented the United States under many republican and democratic presidents in negotiations when critical issues were happening around the world. Often the presidents he was representing didn&#39;t want it known they were using him because those presidents were afraid his poor image would reflect badly on them!</p>
+
+<p>It worth reading more about him at <a href=""https://en.wikipedia.org/wiki/Jimmy_Carter"">https://en.wikipedia.org/wiki/Jimmy_Carter</a></p>
+
+<p>We learned this week he has cancer of the brain and its very possible just his treatment could shortly kill him.</p>
+
+<p>Whatever his failures he reinstated honesty in the presidency after the first Presidential resignation in history and served bravely in one of the most dangerous positions in the military of his nation.</p>
+
+<p>It would be nice if people honored him for what he got right BEFORE he passes away.</p>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,"{'images': [{'source': {'url': 'https://external-preview.redd.it/I8I8iGlsTEkTU0aM1PWYgeeqBuQhnd2nhcObgICjL3Y.jpg?auto=webp&s=08976e0b501fcc936b1d3cd854e14b03767b8529', 'width': 480, 'height': 360}, 'resolutions': [{'url': 'https://external-preview.redd.it/I8I8iGlsTEkTU0aM1PWYgeeqBuQhnd2nhcObgICjL3Y.jpg?width=108&crop=smart&auto=webp&s=a39f809fbe89bad8048cb6a5c291acd248857d0a', 'width': 108, 'height': 81}, {'url': 'https://external-preview.redd.it/I8I8iGlsTEkTU0aM1PWYgeeqBuQhnd2nhcObgICjL3Y.jpg?width=216&crop=smart&auto=webp&s=3f65cec548c464a091cd9d107587266f463cafd4', 'width': 216, 'height': 162}, {'url': 'https://external-preview.redd.it/I8I8iGlsTEkTU0aM1PWYgeeqBuQhnd2nhcObgICjL3Y.jpg?width=320&crop=smart&auto=webp&s=f63fb2b73a745d47a0a0f113f13cdb05d449c18b', 'width': 320, 'height': 240}], 'variants': {}, 'id': 'kg47f6nWJ2jXhm2hyKgw6x9ocA2_SpJHecz0jzqBZYs'}], 'enabled': False}",[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,1,True,all_ads,False,[],False,,/r/politics/comments/3i1m8y/slipping_one_last_one_in_under_the_saturday_self/,all_ads,False,7905707,1440302095.0,0,,False,False,{},
+12,qs59j,BearsChief,"Reddit, I've experienced firsthand the interworkings of a big airline, and I'm frankly disgusted by the way they do their business. Let's put a stop to this kind of unfair treatment. (Details inside)","So first, a little back story. Both of my parents, for upwards of 30 years, were workers with Northwest (now Delta) airlines. They both have been managers, flight attendants, luggage workers, and my mom was at one point a pilot. My mom recently was fired from Delta. Why? She was falsely accused of drug use, without so much as a screening test. Her compensation for 32 years with the company was hardly anything at all; her boarding priority is literally one step above a first-time flier. Her severance package was equivalent to about half a year's pay for her ($8000), which was taxed at over 25%. She recieved six free ""anywhere confirmed"" passes, meaning that she can take my family on ONE trip for free. She was a flight attendent for the last part of her career, and frankly, the way Delta treated her sickened me. Her hourly wage was $15, however, the two hours between her required arrival time at the airport and her actual departure are not included. Nor are the hours after she lands, nor night time hours spent there. She was basically only paid when the airplane was physically in the air. She was, in actuality, paid for about 1/2 of the time she spent away from home. Benefits? None to speak of. The attendents are even expected to pay for their own uniforms, which run upwards of $400. During training, all future attendents are paid $260 a week for over 50 hours of work, including on weekends, which equates to roughly $5 an hour. Meanwhile, for comparison, the CEO of Delta, Richard Anderson, brought home a handsome $8.38 million, the 394th highest executive payout in the world. Reddit, this kind of shit should be illegal, yet every airline in the world gets away with it, while all along raising our ticket prices, increasing executive pay, and cutting workers, wages, and benefits anywhere they can. From what my mom tells me, other airlines are even worse about this kind of stuff, and Delta is fairly reasonable compared to lower-cost lines. Not only is this intended to raise awareness, but as a call to action. Let's tell these airlines that we won't tolerate their shit any longer and that we're not okay with the way they do their business.
+
+TL;DR - Delta is the worst company. They treat their workers like shit, offer little to no benefits, pay executives insanely high salaries, and get away with it. This needs to stop.",1331510268.0,,,https://www.reddit.com/r/politics/comments/qs59j/reddit_ive_experienced_firsthand_the/,12,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_5hd63,False,,0,False,[],r/politics,False,6,,0,,,False,t3_qs59j,False,dark,0.84,,public,4,0,{},,,False,[],,False,False,,{},False,4,,False,False,self,False,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>So first, a little back story. Both of my parents, for upwards of 30 years, were workers with Northwest (now Delta) airlines. They both have been managers, flight attendants, luggage workers, and my mom was at one point a pilot. My mom recently was fired from Delta. Why? She was falsely accused of drug use, without so much as a screening test. Her compensation for 32 years with the company was hardly anything at all; her boarding priority is literally one step above a first-time flier. Her severance package was equivalent to about half a year&#39;s pay for her ($8000), which was taxed at over 25%. She recieved six free &quot;anywhere confirmed&quot; passes, meaning that she can take my family on ONE trip for free. She was a flight attendent for the last part of her career, and frankly, the way Delta treated her sickened me. Her hourly wage was $15, however, the two hours between her required arrival time at the airport and her actual departure are not included. Nor are the hours after she lands, nor night time hours spent there. She was basically only paid when the airplane was physically in the air. She was, in actuality, paid for about 1/2 of the time she spent away from home. Benefits? None to speak of. The attendents are even expected to pay for their own uniforms, which run upwards of $400. During training, all future attendents are paid $260 a week for over 50 hours of work, including on weekends, which equates to roughly $5 an hour. Meanwhile, for comparison, the CEO of Delta, Richard Anderson, brought home a handsome $8.38 million, the 394th highest executive payout in the world. Reddit, this kind of shit should be illegal, yet every airline in the world gets away with it, while all along raising our ticket prices, increasing executive pay, and cutting workers, wages, and benefits anywhere they can. From what my mom tells me, other airlines are even worse about this kind of stuff, and Delta is fairly reasonable compared to lower-cost lines. Not only is this intended to raise awareness, but as a call to action. Let&#39;s tell these airlines that we won&#39;t tolerate their shit any longer and that we&#39;re not okay with the way they do their business.</p>
+
+<p>TL;DR - Delta is the worst company. They treat their workers like shit, offer little to no benefits, pay executives insanely high salaries, and get away with it. This needs to stop.</p>
+</div><!-- SC_ON -->",,,,,,True,False,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,0,True,all_ads,False,[],False,,/r/politics/comments/qs59j/reddit_ive_experienced_firsthand_the/,all_ads,False,7905707,1331510268.0,0,,False,False,{},
+13,qbzee,BrunoLord,"Red, White and Blues","""In Performance at the White House: Red, White and Blues"" will honor the musical form that sprang from the Mississippi Delta and flourished in the Westside of Chicago with deep roots in Africa and slavery. The performances will explore those roots and pay homage to the great figures of the Blues and the songs they made famous by tracing the influence of the Blues on modern American music from soul to rock'n'roll",1330555034.0,,,https://www.reddit.com/r/politics/comments/qbzee/red_white_and_blues/,13,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_63ezf,False,,0,False,[],r/politics,False,6,,0,,,False,t3_qbzee,False,dark,0.25,,public,0,0,{},,,False,[],,False,False,,{},False,0,,False,False,self,False,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>&quot;In Performance at the White House: Red, White and Blues&quot; will honor the musical form that sprang from the Mississippi Delta and flourished in the Westside of Chicago with deep roots in Africa and slavery. The performances will explore those roots and pay homage to the great figures of the Blues and the songs they made famous by tracing the influence of the Blues on modern American music from soul to rock&#39;n&#39;roll</p>
+</div><!-- SC_ON -->",,,,,,True,True,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,2,True,all_ads,False,[],False,,/r/politics/comments/qbzee/red_white_and_blues/,all_ads,False,7905707,1330555034.0,0,,False,False,{},
+14,r8xn8,johnhausner,regard CRC AMTRAC TRIMET TRACKS,"Why does Amtrac have to carry commuter traffic over the rail bridge over the Columbia when Tri-Met Commuter light rail is the same gauge track as regular train service and could easily extended from Expo/Delta park station to the rail bridge and use all current right of ways North of the bridge in Clark County? Just thinking!!
+No addition passenger traincar allocation required by Amtrac and and a very small capital cost to Trimet to extend the line to the bridge",1332450655.0,,,https://www.reddit.com/r/politics/comments/r8xn8/regard_crc_amtrac_trimet_tracks/,14,2048,confidence,<praw.reddit.Reddit object at 0x7fbefadafc40>,,politics,t2_78nud,False,,0,False,[],r/politics,False,6,,0,,,False,t3_r8xn8,False,dark,1.0,,public,1,0,{},,,False,[],,False,False,,{},False,1,,False,False,self,False,,[],{},,,True,,text,6,,,text,self.politics,False,"<!-- SC_OFF --><div class=""md""><p>Why does Amtrac have to carry commuter traffic over the rail bridge over the Columbia when Tri-Met Commuter light rail is the same gauge track as regular train service and could easily extended from Expo/Delta park station to the rail bridge and use all current right of ways North of the bridge in Clark County? Just thinking!!
+No addition passenger traincar allocation required by Amtrac and and a very small capital cost to Trimet to extend the line to the bridge</p>
+</div><!-- SC_ON -->",,,,,,True,True,False,False,False,,[],[],False,False,False,False,[],False,,,,t5_2cneq,False,,,,True,,,0,True,all_ads,False,[],False,,/r/politics/comments/r8xn8/regard_crc_amtrac_trimet_tracks/,all_ads,False,7905707,1332450655.0,0,,False,False,{},

@@ -1,0 +1,47 @@
+Unnamed: 0,_replies,_submission,_reddit,author_flair_text,subreddit_id,approved_at_utc,author_is_blocked,comment_type,awarders,mod_reason_by,banned_by,author_flair_type,total_awards_received,subreddit,author_flair_template_id,likes,user_reports,saved,id,banned_at_utc,mod_reason_title,gilded,archived,collapsed_reason_code,no_follow,author,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,approved_by,mod_note,all_awardings,collapsed,body,edited,top_awarded_type,author_flair_css_class,name,is_submitter,downs,author_flair_richtext,author_patreon_flair,body_html,removal_reason,collapsed_reason,distinguished,associated_award,stickied,author_premium,can_gild,gildings,unrepliable_reason,author_flair_text_color,score_hidden,permalink,subreddit_type,locked,report_reasons,created,treatment_tags,link_id,subreddit_name_prefixed,controversiality,depth,author_flair_background_color,collapsed_because_crowd_control,mod_reports,num_reports,ups,_fetched
+0,<praw.models.comment_forest.CommentForest object at 0x7fe0a357dbb0>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9wsioh,,,0,True,,True,AutoModerator,False,1603547944.0,False,t3_jh9dfn,1,t2_6l4z3,,,[],False,"Hey, the Δ⁸ friendly automod here.  Looks like you submitted a question post.  Please [read the FAQ](https://www.reddit.com/r/delta8/comments/g6z06o/delta8_faq_start_here/) as many common questions are already answered.
+
+If your question was not covered in the FAQ we appreciate the submission.  If you think the question should be added to our FAQ please send a modmail.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/delta8) if you have any questions or concerns.*",False,,,t1_g9wsioh,False,0,[],False,"<div class=""md""><p>Hey, the Δ⁸ friendly automod here.  Looks like you submitted a question post.  Please <a href=""https://www.reddit.com/r/delta8/comments/g6z06o/delta8_faq_start_here/"">read the FAQ</a> as many common questions are already answered.</p>
+
+<p>If your question was not covered in the FAQ we appreciate the submission.  If you think the question should be added to our FAQ please send a modmail.</p>
+
+<p><em>I am a bot, and this action was performed automatically. Please <a href=""/message/compose/?to=/r/delta8"">contact the moderators of this subreddit</a> if you have any questions or concerns.</em></p>
+</div>",,,moderator,,True,True,True,{},,,True,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9wsioh/,public,False,,1603547944.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,1,True
+1,<praw.models.comment_forest.CommentForest object at 0x7fe0a3b62520>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9ygydv,,,0,True,,True,Brantis0,False,1603576183.0,True,t3_jh9dfn,3,t2_5bwbjp7t,,,[],False,"There is a fantastic video that I feel should be stickied. 
+
+[extraktLAB Explaining How D8 Levels Are Measured](https://youtu.be/8EyQuIhFzfw?t=2446)
+
+I honestly recommend watching so that people can understand the entire process. They even go over ""Residuals and Unknowns"" within D8.",False,,,t1_g9ygydv,False,0,[],False,"<div class=""md""><p>There is a fantastic video that I feel should be stickied. </p>
+
+<p><a href=""https://youtu.be/8EyQuIhFzfw?t=2446"">extraktLAB Explaining How D8 Levels Are Measured</a></p>
+
+<p>I honestly recommend watching so that people can understand the entire process. They even go over &quot;Residuals and Unknowns&quot; within D8.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9ygydv/,public,False,,1603576183.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,3,True
+2,<praw.models.comment_forest.CommentForest object at 0x7fe0a3b62130>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9wuac5,,,0,True,,True,IsntThisAGreatName,False,1603548863.0,True,t3_jh9dfn,2,t2_79lvw62h,,,[],False,Why did the comments get deleted?,False,,,t1_g9wuac5,False,0,[],False,"<div class=""md""><p>Why did the comments get deleted?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9wuac5/,public,False,,1603548863.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,2,True
+3,<praw.models.comment_forest.CommentForest object at 0x7fe0a3b621c0>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9x541o,,,0,True,,True,Master-o-none,False,1603553644.0,True,t3_jh9dfn,2,t2_5jji6htb,,,[],False,"This is true for CBD as well.  You can thank the federal regulations limiting the study of cannabis for this.  Were universities and other research hubs able to study cannabis before, at scale, we would have much more refined testing.",False,,,t1_g9x541o,False,0,[],False,"<div class=""md""><p>This is true for CBD as well.  You can thank the federal regulations limiting the study of cannabis for this.  Were universities and other research hubs able to study cannabis before, at scale, we would have much more refined testing.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9x541o/,public,False,,1603553644.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,2,True
+4,<praw.models.comment_forest.CommentForest object at 0x7fe0a3b62340>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9xa3co,,,0,True,,True,SheSqueelsOneill,False,1603556207.0,True,t3_jh9dfn,4,t2_aniz8,,,[],False,"There are a few reasons for this:
+
+In analytical chemistry, two compounds as similar to one another as D8 and D9 are very difficult to distinguish from one another. What makes matters worse is most labs employ quick and dirty testing methods that only push the D8 and D9 peaks towards each other along with any mystery peaks that elute between these peaks (Exo-THC, Hu-331?). 
+
+There then is of course certain labs that know if they can interpret the chromatogram of your sample to read artificially high potency and compliance, that you will choose to test at that lab every time a client asks for a COA. 
+
+Finally, if the producer does not have a standardized method of synthesis, or does not homogenize all their batches properly, there could even be variance of potency within a single jar of product.
+
+Essentially the labs that know what they are doing will all give pretty similar results (within a reasonable margin of error).",False,,,t1_g9xa3co,False,0,[],False,"<div class=""md""><p>There are a few reasons for this:</p>
+
+<p>In analytical chemistry, two compounds as similar to one another as D8 and D9 are very difficult to distinguish from one another. What makes matters worse is most labs employ quick and dirty testing methods that only push the D8 and D9 peaks towards each other along with any mystery peaks that elute between these peaks (Exo-THC, Hu-331?). </p>
+
+<p>There then is of course certain labs that know if they can interpret the chromatogram of your sample to read artificially high potency and compliance, that you will choose to test at that lab every time a client asks for a COA. </p>
+
+<p>Finally, if the producer does not have a standardized method of synthesis, or does not homogenize all their batches properly, there could even be variance of potency within a single jar of product.</p>
+
+<p>Essentially the labs that know what they are doing will all give pretty similar results (within a reasonable margin of error).</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9xa3co/,public,False,,1603556207.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,4,True
+5,<praw.models.comment_forest.CommentForest object at 0x7fe0a3647d00>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9wsmaw,,,0,True,,True,IsntThisAGreatName,False,1603548007.0,True,t3_jh9dfn,2,t2_79lvw62h,,,[],False,Because delta-8 testing is still very new. They're still trying to figure out the testing.,False,,,t1_g9wsmaw,False,0,[],False,"<div class=""md""><p>Because delta-8 testing is still very new. They&#39;re still trying to figure out the testing.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9wsmaw/,public,False,,1603548007.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,2,True
+6,<praw.models.comment_forest.CommentForest object at 0x7fe0a3647670>,jh9dfn,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9wu82w,,,0,True,,True,IsntThisAGreatName,False,1603548834.0,True,t3_jh9dfn,1,t2_79lvw62h,,,[],False,Really? We just started using the stuff recently. Why would we have had tests for something we don't use? Were their tests for CBD before we figured out it's useful? No. They made the tests after we started using it.,False,,,t1_g9wu82w,False,0,[],False,"<div class=""md""><p>Really? We just started using the stuff recently. Why would we have had tests for something we don&#39;t use? Were their tests for CBD before we figured out it&#39;s useful? No. They made the tests after we started using it.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jh9dfn/question_about_varying_coas/g9wu82w/,public,False,,1603548834.0,[],t3_jh9dfn,r/delta8,0,0,,,[],,1,True

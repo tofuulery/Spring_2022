@@ -1,0 +1,41 @@
+Unnamed: 0,_replies,_submission,_reddit,author_flair_text,subreddit_id,approved_at_utc,author_is_blocked,comment_type,awarders,mod_reason_by,banned_by,author_flair_type,total_awards_received,subreddit,author_flair_template_id,likes,user_reports,saved,id,banned_at_utc,mod_reason_title,gilded,archived,collapsed_reason_code,no_follow,author,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,approved_by,mod_note,all_awardings,collapsed,body,edited,top_awarded_type,author_flair_css_class,name,is_submitter,downs,author_flair_richtext,author_patreon_flair,body_html,removal_reason,collapsed_reason,distinguished,associated_award,stickied,author_premium,can_gild,gildings,unrepliable_reason,author_flair_text_color,score_hidden,permalink,subreddit_type,locked,report_reasons,created,treatment_tags,link_id,subreddit_name_prefixed,controversiality,depth,author_flair_background_color,collapsed_because_crowd_control,mod_reports,num_reports,ups,_fetched
+0,<praw.models.comment_forest.CommentForest object at 0x7fe0a1f7dc10>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8by8dk,,,0,True,,False,supaju91,False,1602344091.0,True,t3_j8mg2n,14,t2_10j93pwc,,,[],False,Idk guys...seems kinda sus,False,,,t1_g8by8dk,False,0,[],False,"<div class=""md""><p>Idk guys...seems kinda sus</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8by8dk/,public,False,,1602344091.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,14,True
+1,<praw.models.comment_forest.CommentForest object at 0x7fe0a1f7d8e0>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8bxwt2,,,0,True,,False,tomndherry,False,1602343925.0,True,t3_j8mg2n,11,t2_5dm02gjv,,,[],False,No information at all just that?,False,,,t1_g8bxwt2,False,0,[],False,"<div class=""md""><p>No information at all just that?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8bxwt2/,public,False,,1602343925.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,11,True
+2,<praw.models.comment_forest.CommentForest object at 0x7fe0a1f7de50>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8bxwx6,,,0,True,,False,doyouevensmokebruh,False,1602343926.0,True,t3_j8mg2n,10,t2_7sbu5e9i,,,[],False,Elaborate maybe?,False,,,t1_g8bxwx6,False,0,[],False,"<div class=""md""><p>Elaborate maybe?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8bxwx6/,public,False,,1602343926.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,10,True
+3,<praw.models.comment_forest.CommentForest object at 0x7fe0a1f7dbe0>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8byh92,,,0,True,,False,Lemon_Flip,False,1602344222.0,True,t3_j8mg2n,9,t2_1j048d2q,,,[],False,"this seems like a marketing attempt to move customers from cannaclear elsewhere
+
+unless you can elaborate, that is my assumption (which is likely wrong but still)",False,,,t1_g8byh92,False,0,[],False,"<div class=""md""><p>this seems like a marketing attempt to move customers from cannaclear elsewhere</p>
+
+<p>unless you can elaborate, that is my assumption (which is likely wrong but still)</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8byh92/,public,False,,1602344222.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,9,True
+4,<praw.models.comment_forest.CommentForest object at 0x7fe0a1f7dfa0>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,,0,delta8,,,[],False,g8by0vm,,,0,True,,False,,False,1602343983.0,True,t3_j8mg2n,4,,,,[],False,GO ON?,False,,,t1_g8by0vm,False,0,,,"<div class=""md""><p>GO ON?</p>
+</div>",,,,,False,,False,{},,dark,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8by0vm/,public,False,,1602343983.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,4,True
+5,<praw.models.comment_forest.CommentForest object at 0x7fe0a3645310>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8byeii,,,0,True,,False,mortssports,False,1602344180.0,True,t3_j8mg2n,9,t2_4irgvzx1,,,[],False,Care to elaborate bud?,False,,,t1_g8byeii,False,0,[],False,"<div class=""md""><p>Care to elaborate bud?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8byeii/,public,False,,1602344180.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,9,True
+6,<praw.models.comment_forest.CommentForest object at 0x7fe0a3645d60>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8bzgjd,,,0,True,,False,Darksteellady,False,1602344800.0,True,t3_j8mg2n,5,t2_7merq9i6,,,[],False,Lol wtf is this,False,,,t1_g8bzgjd,False,0,[],False,"<div class=""md""><p>Lol wtf is this</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8bzgjd/,public,False,,1602344800.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,5,True
+7,<praw.models.comment_forest.CommentForest object at 0x7fe0a3645df0>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,,0,delta8,,,[],False,g8bzrmh,,,0,True,,False,,False,1602344981.0,True,t3_j8mg2n,6,,,,[],False,There are a lot of goofies in here this morning....,False,,,t1_g8bzrmh,False,0,,,"<div class=""md""><p>There are a lot of goofies in here this morning....</p>
+</div>",,,,,False,,False,{},,dark,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8bzrmh/,public,False,,1602344981.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,6,True
+8,<praw.models.comment_forest.CommentForest object at 0x7fe0a3645b50>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8cef68,,,0,True,,True,heavyhands88,False,1602352447.0,True,t3_j8mg2n,3,t2_5u91lpv0,,,[],False,"Wow, the information provided really makes me want to stay away /s",False,,,t1_g8cef68,False,0,[],False,"<div class=""md""><p>Wow, the information provided really makes me want to stay away /s</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8cef68/,public,False,,1602352447.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,3,True
+9,<praw.models.comment_forest.CommentForest object at 0x7fe0a3645580>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,,0,delta8,,,[],False,g8i5nbx,,,0,True,,True,,False,1602436787.0,True,t3_j8mg2n,2,,,,[],False,[removed],False,,,t1_g8i5nbx,False,0,,,"<div class=""md""><p>[removed]</p>
+</div>",,,,,False,,True,{},,dark,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8i5nbx/,public,False,,1602436787.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,2,True
+10,<praw.models.comment_forest.CommentForest object at 0x7fe0a36459a0>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8fd33j,,,0,True,,True,traktorhead,False,1602388049.0,True,t3_j8mg2n,0,t2_3dzkprm3,,,[],False,"If you are no longer free, how are you posting this?
+
+&#x200B;
+
+oh and what are you talking about?",False,,,t1_g8fd33j,False,0,[],False,"<div class=""md""><p>If you are no longer free, how are you posting this?</p>
+
+<p>&#x200B;</p>
+
+<p>oh and what are you talking about?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8fd33j/,public,False,,1602388049.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,0,True
+11,<praw.models.comment_forest.CommentForest object at 0x7fe0a36453d0>,j8mg2n,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g8byng7,,,0,True,LOW_SCORE,True,BigBlueOG,False,1602344320.0,True,t3_j8mg2n,-8,t2_6k0yer8j,,,[],True,"If I expand I incriminate myself
+
+Stay safe",False,,,t1_g8byng7,True,0,[],False,"<div class=""md""><p>If I expand I incriminate myself</p>
+
+<p>Stay safe</p>
+</div>",,comment score below threshold,,,False,False,True,{},,,False,/r/delta8/comments/j8mg2n/stay_away_from_cannaclear_if_you_enjoy_your/g8byng7/,public,False,,1602344320.0,[],t3_j8mg2n,r/delta8,0,0,,,[],,-8,True

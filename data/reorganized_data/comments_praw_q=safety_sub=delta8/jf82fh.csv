@@ -1,0 +1,94 @@
+Unnamed: 0,_replies,_submission,_reddit,author_flair_text,subreddit_id,approved_at_utc,author_is_blocked,comment_type,awarders,mod_reason_by,banned_by,author_flair_type,total_awards_received,subreddit,author_flair_template_id,likes,user_reports,saved,id,banned_at_utc,mod_reason_title,gilded,archived,collapsed_reason_code,no_follow,author,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,approved_by,mod_note,all_awardings,collapsed,body,edited,top_awarded_type,author_flair_css_class,name,is_submitter,downs,author_flair_richtext,author_patreon_flair,body_html,removal_reason,collapsed_reason,distinguished,associated_award,stickied,author_premium,can_gild,gildings,unrepliable_reason,author_flair_text_color,score_hidden,permalink,subreddit_type,locked,report_reasons,created,treatment_tags,link_id,subreddit_name_prefixed,controversiality,depth,author_flair_background_color,collapsed_because_crowd_control,mod_reports,num_reports,ups,_fetched
+0,<praw.models.comment_forest.CommentForest object at 0x7fe0a3911df0>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9iqyky,,,0,True,,False,V45H91,False,1603265414.0,True,t3_jf82fh,39,t2_1h0act4b,,,[],False,"Ok, first off, Fuck Texas! 
+Sorry, had to get that off my chest. I used to live in Texas and it's the most ass backwards judicial system ever unless you're in Travis county.
+
+ Now onto the good news, if you can get a lawyer, this case will get smashed. Essentially what is going on in Texas is that the DA and their local labs are too cheap to get real tests. Your lawyer will basically reem them a new asshole about testing it for delta 8 and they'll end up just dropping it and citing you a civil ticket.
+
+So many hemp cases are clogging the system that they literally just don't have the man power or time. Good news for you, they'll just end up throwing it or citing you. Just don't use a public defender, also for future advice, DO NOT EVER TALK TO THE COPS. Their whole shitty job and mission is to get you to say some dumb shit and prove you're guilty. 
+
+Here's what to do in the future if you're pulled over or approached by the cops.
+
+1. Why was I pulled over/approached?
+
+2. I'm not discussing my day.
+
+3. Am I being detained or am I free to go?
+
+4. If detained you say ""I am invoking my 5th"" and then you shut the fuck up until you can speak to a lawyer.",False,,,t1_g9iqyky,False,0,[],False,"<div class=""md""><p>Ok, first off, Fuck Texas! 
+Sorry, had to get that off my chest. I used to live in Texas and it&#39;s the most ass backwards judicial system ever unless you&#39;re in Travis county.</p>
+
+<p>Now onto the good news, if you can get a lawyer, this case will get smashed. Essentially what is going on in Texas is that the DA and their local labs are too cheap to get real tests. Your lawyer will basically reem them a new asshole about testing it for delta 8 and they&#39;ll end up just dropping it and citing you a civil ticket.</p>
+
+<p>So many hemp cases are clogging the system that they literally just don&#39;t have the man power or time. Good news for you, they&#39;ll just end up throwing it or citing you. Just don&#39;t use a public defender, also for future advice, DO NOT EVER TALK TO THE COPS. Their whole shitty job and mission is to get you to say some dumb shit and prove you&#39;re guilty. </p>
+
+<p>Here&#39;s what to do in the future if you&#39;re pulled over or approached by the cops.</p>
+
+<ol>
+<li><p>Why was I pulled over/approached?</p></li>
+<li><p>I&#39;m not discussing my day.</p></li>
+<li><p>Am I being detained or am I free to go?</p></li>
+<li><p>If detained you say &quot;I am invoking my 5th&quot; and then you shut the fuck up until you can speak to a lawyer.</p></li>
+</ol>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9iqyky/,public,False,,1603265414.0,[],t3_jf82fh,r/delta8,0,0,,,[],,39,True
+1,<praw.models.comment_forest.CommentForest object at 0x7fe0a38399a0>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9j5l6k,,,0,True,,False,CRsD8burner,False,1603280898.0,True,t3_jf82fh,17,t2_7zzs5t0r,,,[],False,"I understand lawyers are expensive, but you really need one. I would contact your local NORML and go from there. It's possible they could recommend someone who can take your case pro bono or for a reduced fee. 
+
+A public defender isn't going to have time to do a deep dive into the differences between D8 and D9, hemp laws, or the farm bill. Unless there was something blatantly illegal about the search or seizure, a PD is going push you to cut a deal that will include a fine and probation, which you definitely don't want. 
+
+Without an attorney the prosecutor will bring the results of the field THC test and an affidavit from the cop to court, and the judge will likely buy it. There is a procedure for challenging evidence in court (or ahead of trial) and forcing the prosecution to prove their case. Bringing your receipt and a print out of the farm bill isn't going to be enough. It's not impossible to get someone reasonable in the prosecutor's office who is willing to listen and look at your case objectively, but it's highly unlikely. 
+
+The odds of you getting out of this without an attorney are very slim. It's an unfortunate reality of our justice system. There are plenty of innocent people with convictions for stupid shit, simply because they didn't have access to an attorney. I'm afraid if you don't find a way to get a lawyer, this will be you, too.",False,,,t1_g9j5l6k,False,0,[],False,"<div class=""md""><p>I understand lawyers are expensive, but you really need one. I would contact your local NORML and go from there. It&#39;s possible they could recommend someone who can take your case pro bono or for a reduced fee. </p>
+
+<p>A public defender isn&#39;t going to have time to do a deep dive into the differences between D8 and D9, hemp laws, or the farm bill. Unless there was something blatantly illegal about the search or seizure, a PD is going push you to cut a deal that will include a fine and probation, which you definitely don&#39;t want. </p>
+
+<p>Without an attorney the prosecutor will bring the results of the field THC test and an affidavit from the cop to court, and the judge will likely buy it. There is a procedure for challenging evidence in court (or ahead of trial) and forcing the prosecution to prove their case. Bringing your receipt and a print out of the farm bill isn&#39;t going to be enough. It&#39;s not impossible to get someone reasonable in the prosecutor&#39;s office who is willing to listen and look at your case objectively, but it&#39;s highly unlikely. </p>
+
+<p>The odds of you getting out of this without an attorney are very slim. It&#39;s an unfortunate reality of our justice system. There are plenty of innocent people with convictions for stupid shit, simply because they didn&#39;t have access to an attorney. I&#39;m afraid if you don&#39;t find a way to get a lawyer, this will be you, too.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9j5l6k/,public,False,,1603280898.0,[],t3_jf82fh,r/delta8,0,0,,,[],,17,True
+2,<praw.models.comment_forest.CommentForest object at 0x7fe0a3839a90>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9isn2k,,,0,True,,False,M3R0VIUS,False,1603267247.0,True,t3_jf82fh,32,t2_15wugb7d,,,[],False,Dude sorry that happened but why on earth are you parking in a public lot and vaping D8 behind the wheel. Rookie move homey.,False,,,t1_g9isn2k,False,0,[],False,"<div class=""md""><p>Dude sorry that happened but why on earth are you parking in a public lot and vaping D8 behind the wheel. Rookie move homey.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9isn2k/,public,False,,1603267247.0,[],t3_jf82fh,r/delta8,0,0,,,[],,32,True
+3,<praw.models.comment_forest.CommentForest object at 0x7fe0a3839670>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9jeozp,,,0,True,,False,Pancakesandwich,False,1603287124.0,True,t3_jf82fh,5,t2_8dpjd,,,[],False,"Keep us updated bud. I live in TN which isnt a far cry from the TX in the law department. Im not really afraid of getting in trouble, just being inconvenienced for a long time with court etc",False,,,t1_g9jeozp,False,0,[],False,"<div class=""md""><p>Keep us updated bud. I live in TN which isnt a far cry from the TX in the law department. Im not really afraid of getting in trouble, just being inconvenienced for a long time with court etc</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9jeozp/,public,False,,1603287124.0,[],t3_jf82fh,r/delta8,0,0,,,[],,5,True
+4,<praw.models.comment_forest.CommentForest object at 0x7fe0a3839a30>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9jmu0j,,,0,True,,False,FIVE_DARRA_NO_HARRA,False,1603291569.0,True,t3_jf82fh,3,t2_7g6ezjl,,,[],False,"Good luck with all this. Why everyone needs to treat it like it’s controlled in public. By the way, chilling in a parking lot at night in your car would likely arouse suspicion just about anywhere. Be careful!",False,,,t1_g9jmu0j,False,0,[],False,"<div class=""md""><p>Good luck with all this. Why everyone needs to treat it like it’s controlled in public. By the way, chilling in a parking lot at night in your car would likely arouse suspicion just about anywhere. Be careful!</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9jmu0j/,public,False,,1603291569.0,[],t3_jf82fh,r/delta8,0,0,,,[],,3,True
+5,<praw.models.comment_forest.CommentForest object at 0x7fe0a3839520>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,,0,delta8,,,[],False,g9jkygt,,,0,True,,False,,False,1603290587.0,True,t3_jf82fh,7,,,,[],False,[deleted],False,,,t1_g9jkygt,False,0,,,"<div class=""md""><p>[deleted]</p>
+</div>",,,,,False,,True,{},,dark,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9jkygt/,public,False,,1603290587.0,[],t3_jf82fh,r/delta8,0,0,,,[],,7,True
+6,<praw.models.comment_forest.CommentForest object at 0x7fe0a3839d60>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9jofyc,,,0,True,,True,BlueberryRage,False,1603292382.0,True,t3_jf82fh,3,t2_138ig2,,,[],False,"It sucks because if they do find that there’s too much D9 THC in that cart you’re gonna be hit w a felony. Texas law states any form of concentrate is a state jail felony.
+
+“Possession of hashish or concentrates is a crime in Texas.
+If hashish or concentrates is less than one gram, the offense is considered a state jail felony punishable by term of imprisonment no less than 180 days and no greater than 2 years and a fine no greater than $10,000.”
+
+Where in Texas were you arrested and did a Texas company manufacture the cart you were arrested with?
+I know there are a few. If it was a Texas company I’d consider contacting them to see if they may want to help in any way.",False,,,t1_g9jofyc,False,0,[],False,"<div class=""md""><p>It sucks because if they do find that there’s too much D9 THC in that cart you’re gonna be hit w a felony. Texas law states any form of concentrate is a state jail felony.</p>
+
+<p>“Possession of hashish or concentrates is a crime in Texas.
+If hashish or concentrates is less than one gram, the offense is considered a state jail felony punishable by term of imprisonment no less than 180 days and no greater than 2 years and a fine no greater than $10,000.”</p>
+
+<p>Where in Texas were you arrested and did a Texas company manufacture the cart you were arrested with?
+I know there are a few. If it was a Texas company I’d consider contacting them to see if they may want to help in any way.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9jofyc/,public,False,,1603292382.0,[],t3_jf82fh,r/delta8,0,0,,,[],,3,True
+7,<praw.models.comment_forest.CommentForest object at 0x7fe09f2de9a0>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9ky24v,,,0,True,,True,kindofabuzz,False,1603314328.0,True,t3_jf82fh,3,t2_4y2ap,,,[],False,"And while they had you detained, 50 pounds of cocaine drove buy.",False,,,t1_g9ky24v,False,0,[],False,"<div class=""md""><p>And while they had you detained, 50 pounds of cocaine drove buy.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9ky24v/,public,False,,1603314328.0,[],t3_jf82fh,r/delta8,0,0,,,[],,3,True
+8,<praw.models.comment_forest.CommentForest object at 0x7fe09f2de4c0>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9jlwrk,,,0,True,,True,th3m4g3,False,1603291088.0,True,t3_jf82fh,2,t2_bw6ywa,,,[],False,"I’d recommend the public defender. The court fees are worse than the charge for their services most of the time, so unless you lose it’s worth the extra layer of protection. Also, they ask really good questions to the cops and shit that confuse them and make the situation more favorable for you to the judge. But best of luck either way, know the system is rigged.",False,,,t1_g9jlwrk,False,0,[],False,"<div class=""md""><p>I’d recommend the public defender. The court fees are worse than the charge for their services most of the time, so unless you lose it’s worth the extra layer of protection. Also, they ask really good questions to the cops and shit that confuse them and make the situation more favorable for you to the judge. But best of luck either way, know the system is rigged.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9jlwrk/,public,False,,1603291088.0,[],t3_jf82fh,r/delta8,0,0,,,[],,2,True
+9,<praw.models.comment_forest.CommentForest object at 0x7fe09f2de3d0>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9is6tm,,,0,True,,True,7mm24in14kRopeChain,False,1603266746.0,True,t3_jf82fh,1,t2_866gx8rp,,,[],False,EXACTLY what battery did you have?,False,,,t1_g9is6tm,False,0,[],False,"<div class=""md""><p>EXACTLY what battery did you have?</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9is6tm/,public,False,,1603266746.0,[],t3_jf82fh,r/delta8,0,0,,,[],,1,True
+10,<praw.models.comment_forest.CommentForest object at 0x7fe0a354d850>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9ivzrv,,,0,True,,True,LoveyDovey_Dead,False,1603271060.0,True,t3_jf82fh,1,t2_7pigwtvf,,,[],False,They have to prove it is illegal not the other way around,False,,,t1_g9ivzrv,False,0,[],False,"<div class=""md""><p>They have to prove it is illegal not the other way around</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9ivzrv/,public,False,,1603271060.0,[],t3_jf82fh,r/delta8,0,0,,,[],,1,True
+11,<praw.models.comment_forest.CommentForest object at 0x7fe0a354d670>,jf82fh,<praw.reddit.Reddit object at 0x7fe0a30a7760>,,t5_2kpdau,,False,,[],,,text,0,delta8,,,[],False,g9jjqgr,,,0,True,,True,ancientent,False,1603289942.0,True,t3_jf82fh,-1,t2_1193du8t,,,[],False,"Which county? I have some experience.
+
+&#x200B;
+
+Case was dropped eventually, no charges were filed after about 1.5 years. Claim was that the cart was just cbd. They tested it and was hot for THC.   They can recharge within the statute of limitation which i think is 3 years for this type of thing, but they would need a proper lab for d9 content. Only few counties have that type of lab access and won't pay big bucks unless the charge is huge. they still ran the racket of bail, towing, etc.
+
+&#x200B;
+
+you do not have to prove anything, this isn't mexico. where do Americans get this insane idea? My schooling was pretty clear we are innocent until proven guilty.",False,,,t1_g9jjqgr,False,0,[],False,"<div class=""md""><p>Which county? I have some experience.</p>
+
+<p>&#x200B;</p>
+
+<p>Case was dropped eventually, no charges were filed after about 1.5 years. Claim was that the cart was just cbd. They tested it and was hot for THC.   They can recharge within the statute of limitation which i think is 3 years for this type of thing, but they would need a proper lab for d9 content. Only few counties have that type of lab access and won&#39;t pay big bucks unless the charge is huge. they still ran the racket of bail, towing, etc.</p>
+
+<p>&#x200B;</p>
+
+<p>you do not have to prove anything, this isn&#39;t mexico. where do Americans get this insane idea? My schooling was pretty clear we are innocent until proven guilty.</p>
+</div>",,,,,False,False,True,{},,,False,/r/delta8/comments/jf82fh/re_cited_for_d8/g9jjqgr/,public,False,,1603289942.0,[],t3_jf82fh,r/delta8,0,0,,,[],,-1,True
